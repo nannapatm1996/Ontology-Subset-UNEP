@@ -1,0 +1,2196 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2022/7/other_test#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2022/7/other_test"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:wiki="https://www.wikidata.org/wiki/"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:schema="https://schema.org/"
+     xmlns:subject="http://www.fairsharing.org/ontology/subject/"
+     xmlns:Property="https://www.wikidata.org/wiki/Property:"
+     xmlns:oboInOwl="http://www.geneontology.org/formats/oboInOwl#"
+     xmlns:resource="http://semanticscience.org/resource/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/other_test"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000179 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000179"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000180 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000180"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000111 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000111"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000112 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000112"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000114 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000114"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000116 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000116"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000117 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000117"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000118 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000118"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000412 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000412"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000600 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000600"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000601 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000601"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000602 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000602"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0010000 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0010000"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/date -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/date"/>
+    
+
+
+    <!-- http://purl.org/dc/elements/1.1/identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/elements/1.1/identifier"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/alternative -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/alternative"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/description -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/description"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/isReferencedBy -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/isReferencedBy"/>
+    
+
+
+    <!-- http://purl.org/dc/terms/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/source"/>
+    
+
+
+    <!-- http://semanticscience.org/resource/subset -->
+
+    <owl:AnnotationProperty rdf:about="http://semanticscience.org/resource/subset"/>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000278 -->
+
+    <owl:AnnotationProperty rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000278"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasBroadSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasDbXref -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasExactSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasOBONamespace -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasOBONamespace"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#hasSynonym -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#hasSynonym"/>
+    
+
+
+    <!-- http://www.geneontology.org/formats/oboInOwl#id -->
+
+    <owl:AnnotationProperty rdf:about="http://www.geneontology.org/formats/oboInOwl#id"/>
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#example -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#example"/>
+    
+
+
+    <!-- https://schema.org/alternateName -->
+
+    <owl:AnnotationProperty rdf:about="https://schema.org/alternateName"/>
+    
+
+
+    <!-- https://schema.org/bookEdition -->
+
+    <owl:AnnotationProperty rdf:about="https://schema.org/bookEdition"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Q1823134 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Q1823134"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P1036 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P1036"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P1149 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P1149"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P1748 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P1748"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P1813 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P1813"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P3095 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P3095"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P486 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P486"/>
+    
+
+
+    <!-- https://www.wikidata.org/wiki/Property:P5191 -->
+
+    <owl:AnnotationProperty rdf:about="https://www.wikidata.org/wiki/Property:P5191"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000050 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/BFO_0000050"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/RO_0001000 -->
+
+    <owl:ObjectProperty rdf:about="http://purl.obolibrary.org/obo/RO_0001000"/>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000011 -->
+
+    <owl:ObjectProperty rdf:about="http://semanticscience.org/resource/SIO_000011"/>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000028 -->
+
+    <owl:ObjectProperty rdf:about="http://semanticscience.org/resource/SIO_000028"/>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000053 -->
+
+    <owl:ObjectProperty rdf:about="http://semanticscience.org/resource/SIO_000053"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000300 -->
+
+    <owl:DatatypeProperty rdf:about="http://semanticscience.org/resource/SIO_000300"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_10967 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_10967">
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_7132"/>
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_8672"/>
+        <obo:IAO_0000115 xml:lang="en">Food Security is the area of research concerned with physical and economic access, by all people at all times, to the basic food they need.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">AgroVoc, AL 19.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 16.5.2019: Added additional parent of &apos;Agricultural Economics&apos; as per https://github.com/FAIRsharing/subject-ontology/issues/31</rdfs:comment>
+        <rdfs:label xml:lang="en">Food Security</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_203 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_203">
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_4318"/>
+        <obo:IAO_0000115 xml:lang="en">Agriculture is the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">AgroVoc http://aims.fao.org/aos/agrovoc/c_203, AL 12.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:label xml:lang="en">Agriculture</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_2481 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_2481">
+        <rdfs:subClassOf rdf:resource="http://www.fairsharing.org/ontology/subject/SRAO_0000041"/>
+        <obo:IAO_0000115 xml:lang="en">Economics is the branch of social science that deals with the production and distribution and consumption of goods and services and their management).</obo:IAO_0000115>
+        <obo:IAO_0000119 xml:lang="en">AgroVoc, AL 12.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:label xml:lang="en">Economics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_3235 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_3235">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0026615"/>
+        <obo:IAO_0000115 xml:lang="en">Geophysics is the branch of science concerned with the physics of the earth and the processes which affect it; the application of the principles, methods, and techniques of physics to the study of the earth, esp. the crust. [Adapted from OED, AL 12.6.2019]</obo:IAO_0000115>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:label xml:lang="en">Geophysics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_4318 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_4318">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0011790"/>
+        <obo:IAO_0000115 xml:lang="en">Life Science is the study of all of the divisions of the natural sciences dealing with the various aspects of the phenomena of life and vital processes.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from AgroVoc, AL 6.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <subject:SRAO_0000278 xml:lang="en">Life Sciences</subject:SRAO_0000278>
+        <rdfs:comment xml:lang="en">AL 5.6.2019: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Life Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_6498 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_6498">
+        <rdfs:subClassOf rdf:resource="http://www.fairsharing.org/ontology/subject/SRAO_0000198"/>
+        <obo:IAO_0000115 xml:lang="en">Remote Sensing is the acquisition of information about an object or phenomenon without making physical contact with the object and thus in contrast to on-site observation, especially the Earth. Remote sensing is used in numerous fields, including geography, land surveying and most Earth Science disciplines as well as military, intelligence, commercial, economic, planning, and humanitarian applications. [Adapted from Wikipedia https://en.wikipedia.org/wiki/Remote_sensing, AL 2.4.2019]</obo:IAO_0000115>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL: 8.5.2019 Refactored re3data composite class &apos;Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy&apos; into parent class &apos;Geoinformatics&apos; and child classes &apos;Geodesy&apos;, &apos;Photogrammetry&apos;, &apos;Remote Sensing&apos; and &apos;Cartography&apos; according to FAIRsharing curation best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Remote Sensing</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_7132 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_7132">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17735"/>
+        <obo:IAO_0000115 xml:lang="en">Social policy is concerned with the ways societies across the world meet human needs for security, education, work, health and wellbeing. Social policy addresses how states and societies respond to global challenges of social, demographic and economic change, and of poverty, migration and globalisation. Social policy analyses the different roles of: national governments, the family, civil society, the market, and international organisations in providing services and support across the life course from childhood to old age.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">LSE http://www.lse.ac.uk/social-policy/about-us/What-is-social-policy 2.4.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL: 21.5.2019 Refactored re3data composite class &apos;Economic and Social Policy&apos; into sibling classes &apos;Economic Policy&apos; and &apos;Social Policy&apos; according to FAIRsharing curation best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Social Policy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://aims.fao.org/aos/agrovoc/c_8672 -->
+
+    <owl:Class rdf:about="http://aims.fao.org/aos/agrovoc/c_8672">
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_203"/>
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_2481"/>
+        <obo:IAO_0000115 xml:lang="en">Agricultural Economics is an applied social science that deals with the production, distribution, and consumption of agricultural or farming goods and services.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">https://www.eionet.europa.eu/gemet/en/concept/193, AL 14.5.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">AgroVoc</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL: 14.5.2019 Refactored re3data composite class &apos;Agricultural Economics and Sociology&apos; into &apos;Agricultural Economics&apos; according to FAIRsharing curation best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Agricultural Economics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://humanbehaviourchange.org/ontology/BCIO_010003 -->
+
+    <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_010003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A role that inheres in a person source.</obo:IAO_0000115>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">personal role of source</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://humanbehaviourchange.org/ontology/BCIO_010004 -->
+
+    <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_010004">
+        <rdfs:subClassOf rdf:resource="http://humanbehaviourchange.org/ontology/BCIO_010003"/>
+        <obo:IAO_0000112 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Interventionist, facilitator, study staff</obo:IAO_0000112>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A personal role of source that is realised by doing a specified type of work or working in a specified way.</obo:IAO_0000115>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">occupational role of source</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://humanbehaviourchange.org/ontology/BCIO_010006 -->
+
+    <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_010006">
+        <rdfs:subClassOf rdf:resource="http://humanbehaviourchange.org/ontology/BCIO_010004"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An occupational role that works in knowledge building activities, applies scientific or artistic concepts and theories or teaches about the foregoing in a systematic manner.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Standard Classification of Occupations</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISCO: 2</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">professional</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://humanbehaviourchange.org/ontology/BCIO_010034 -->
+
+    <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_010034">
+        <rdfs:subClassOf rdf:resource="http://humanbehaviourchange.org/ontology/BCIO_010006"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A professional that conducts research, improves or develops concepts, theories and operational methods, or applies knowledge relating to the law, social or cultural studies.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Standard Classification of Occupations</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISCO: 26</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal, social and cultural professional</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://humanbehaviourchange.org/ontology/BCIO_010035 -->
+
+    <owl:Class rdf:about="http://humanbehaviourchange.org/ontology/BCIO_010035">
+        <rdfs:subClassOf rdf:resource="http://humanbehaviourchange.org/ontology/BCIO_010034"/>
+        <obo:IAO_0000112 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lawyer, Judge, Coroner</obo:IAO_0000112>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A legal, social and cultural professional that conducts research on legal problems, advises clients on legal aspects of problems, pleads cases or conducts prosecutions in courts of law, presides over judicial proceedings in courts of law and draft laws and regulations.</obo:IAO_0000115>
+        <obo:IAO_0000119 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">International Standard Classification of Occupations</obo:IAO_0000119>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISCO: 261</rdfs:isDefinedBy>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">legal professional</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/MESH/D004954 -->
+
+    <owl:Class rdf:about="http://purl.bioontology.org/ontology/MESH/D004954">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_003088"/>
+        <obo:IAO_0000115 xml:lang="en">A branch of philosophy that deals with the nature of art, beauty and taste. It examines subjective and sensori-emotional values, or sometimes called judgments of sentiment and taste.</obo:IAO_0000115>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://homosaurus.org/terms/aesthetics</dc:identifier>
+        <terms:isReferencedBy rdf:resource="https://www.worldcat.org/oclc/1044778005"/>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Aesthetics</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Category:Aesthetics</oboInOwl:hasDbXref>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">aesthetic</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasSynonym xml:lang="en">esthetic</oboInOwl:hasSynonym>
+        <rdfs:label xml:lang="en">aesthetics</rdfs:label>
+        <wiki:Q1823134 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://id.loc.gov/authorities/subjects/sh85001441</wiki:Q1823134>
+        <Property:P1036 rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.85</Property:P1036>
+        <Property:P1149>BH</Property:P1149>
+        <Property:P1149>N61-N79</Property:P1149>
+        <Property:P486 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.bioontology.org/ontology/MESH/D004954</Property:P486>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.bioontology.org/ontology/MESH/D004954"/>
+        <owl:annotatedProperty rdf:resource="http://purl.org/dc/elements/1.1/identifier"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://homosaurus.org/terms/aesthetics</owl:annotatedTarget>
+        <terms:source rdf:resource="http://web.archive.org/web/20160404165237/https://homosaurus.org/terms"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.bioontology.org/ontology/MESH/D004954"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1036"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">111.85</owl:annotatedTarget>
+        <rdfs:comment xml:lang="en">philosophy</rdfs:comment>
+        <schema:bookEdition rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</schema:bookEdition>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.bioontology.org/ontology/MESH/D010684 -->
+
+    <owl:Class rdf:about="http://purl.bioontology.org/ontology/MESH/D010684">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_002368"/>
+        <obo:IAO_0000115 xml:lang="en">The study of general and fundamental questions about existence, knowledge, values, reason, mind, and language.</obo:IAO_0000115>
+        <terms:isReferencedBy rdf:resource="https://books.google.com/books/?id=TYyGAAAAIAAJ"/>
+        <terms:isReferencedBy rdf:resource="https://www.worldcat.org/oclc/646833261"/>
+        <terms:isReferencedBy rdf:resource="https://www.worldcat.org/oclc/940437564"/>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Philosophy</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">philosophy</rdfs:label>
+        <schema:alternateName xml:lang="en">philosophies</schema:alternateName>
+        <wiki:Q1823134 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://id.loc.gov/authorities/subjects/sh85100849</wiki:Q1823134>
+        <Property:P1036 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</Property:P1036>
+        <Property:P1149>B-BJ</Property:P1149>
+        <Property:P1748 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.obolibrary.org/obo/NCIT_C39794</Property:P1748>
+        <Property:P3095 rdf:resource="http://purl.obolibrary.org/obo/GSSO_005901"/>
+        <Property:P486 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.bioontology.org/ontology/MESH/D010684</Property:P486>
+        <Property:P5191 xml:lang="la">philosophia</Property:P5191>
+        <Property:P5191 xml:lang="fr">philosophie</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.bioontology.org/ontology/MESH/D010684"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1036"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</owl:annotatedTarget>
+        <schema:bookEdition rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</schema:bookEdition>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000001 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000001">
+        <obo:BFO_0000179>entity</obo:BFO_0000179>
+        <obo:BFO_0000180>Entity</obo:BFO_0000180>
+        <obo:IAO_0000111 xml:lang="en">entity</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">Julius Caesar</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">Verdi’s Requiem</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the Second World War</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">your body mass index</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">An entity is anything that exists or has existed or will exist.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: In all areas of empirical inquiry we encounter general terms of two sorts. First are general terms which refer to universals or types:animaltuberculosissurgical procedurediseaseSecond, are general terms used to refer to groups of entities which instantiate a given universal but do not correspond to the extension of any subuniversal of that universal because there is nothing intrinsic to the entities in question by virtue of which they – and only they – are counted as belonging to the given group. Examples are: animal purchased by the Emperortuberculosis diagnosed on a Wednesdaysurgical procedure performed on a patient from Stockholmperson identified as candidate for clinical trial #2056-555person who is signatory of Form 656-PPVpainting by Leonardo da VinciSuch terms, which represent what are called ‘specializations’ in [81</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Entity doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example Werner Ceusters &apos;portions of reality&apos; include 4 sorts, entities (as BFO construes them), universals, configurations, and relations. It is an open question as to whether entities as construed in BFO will at some point also include these other portions of reality. See, for example, &apos;How to track absolutely everything&apos; at http://www.referent-tracking.com/_RTU/papers/CeustersICbookRevised.pdf</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/agro.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/dron.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ecocore.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/envo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/hp.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ico.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/mondo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/oae.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ogms.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/omrse.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ons.owl"/>
+        <obo:IAO_0000600 xml:lang="en">An entity is anything that exists or has existed or will exist. (axiom label in BFO2 Reference: [001-001])</obo:IAO_0000600>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q35120</oboInOwl:hasDbXref>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label>entity</rdfs:label>
+        <rdfs:label xml:lang="en">entity</rdfs:label>
+        <schema:alternateName xml:lang="en">entities</schema:alternateName>
+        <Property:P5191 xml:lang="la">entitātem</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000116"/>
+        <owl:annotatedTarget xml:lang="en">Entity doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example Werner Ceusters &apos;portions of reality&apos; include 4 sorts, entities (as BFO construes them), universals, configurations, and relations. It is an open question as to whether entities as construed in BFO will at some point also include these other portions of reality. See, for example, &apos;How to track absolutely everything&apos; at http://www.referent-tracking.com/_RTU/papers/CeustersICbookRevised.pdf</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/0000004"/>
+        <rdfs:comment>per discussion with Barry Smith</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://www.referent-tracking.com/_RTU/papers/CeustersICbookRevised.pdf"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">An entity is anything that exists or has existed or will exist. (axiom label in BFO2 Reference: [001-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/001-001"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000002 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000002">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:allValuesFrom rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000003"/>
+        <obo:BFO_0000179>continuant</obo:BFO_0000179>
+        <obo:BFO_0000180>Continuant</obo:BFO_0000180>
+        <obo:IAO_0000111 xml:lang="en">continuant</obo:IAO_0000111>
+        <obo:IAO_0000115 xml:lang="en">A continuant is an entity that persists, endures, or continues to exist through time while maintaining its identity.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">An entity that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An entity that exists in full at any time in which it exists at all, persists through time while maintaining its identity and has no temporal parts.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: Continuant entities are entities which can be sliced to yield parts only along the spatial dimension, yielding for example the parts of your table which we call its legs, its top, its nails. ‘My desk stretches from the window to the door. It has spatial parts, and can be sliced (in space) in two. With respect to time, however, a thing is a continuant.’ [60, p. 240</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">Continuant doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example, in an expansion involving bringing in some of Ceuster&apos;s other portions of reality, questions are raised as to whether universals are continuants</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/agro.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/dron.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/envo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/foodon.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/iao.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ons.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/pato.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/po.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ro.owl"/>
+        <obo:IAO_0000600 xml:lang="en">A continuant is an entity that persists, endures, or continues to exist through time while maintaining its identity. (axiom label in BFO2 Reference: [008-002])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">if b is a continuant and if, for some t, c has_continuant_part b at t, then c is a continuant. (axiom label in BFO2 Reference: [126-001])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">if b is a continuant and if, for some t, cis continuant_part of b at t, then c is a continuant. (axiom label in BFO2 Reference: [009-002])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">if b is a material entity, then there is some temporal interval (referred to below as a one-dimensional temporal region) during which b exists. (axiom label in BFO2 Reference: [011-002])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x y) (if (and (Continuant x) (exists (t) (continuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [009-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x y) (if (and (Continuant x) (exists (t) (hasContinuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [126-001] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (Continuant x) (Entity x))) // axiom label in BFO2 CLIF: [008-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (Material Entity x) (exists (t) (and (TemporalRegion t) (existsAt x t))))) // axiom label in BFO2 CLIF: [011-002] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label>continuant</rdfs:label>
+        <rdfs:label xml:lang="en">continuant</rdfs:label>
+        <schema:alternateName xml:lang="en">continuants</schema:alternateName>
+        <Property:P5191 xml:lang="fr">continuant</Property:P5191>
+        <Property:P5191 xml:lang="la">continuānt</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">if b is a continuant and if, for some t, cis continuant_part of b at t, then c is a continuant. (axiom label in BFO2 Reference: [009-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/009-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">if b is a material entity, then there is some temporal interval (referred to below as a one-dimensional temporal region) during which b exists. (axiom label in BFO2 Reference: [011-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/011-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x y) (if (and (Continuant x) (exists (t) (continuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [009-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/009-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x y) (if (and (Continuant x) (exists (t) (hasContinuantPartOfAt y x t))) (Continuant y))) // axiom label in BFO2 CLIF: [126-001] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/126-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (Continuant x) (Entity x))) // axiom label in BFO2 CLIF: [008-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/008-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (Material Entity x) (exists (t) (and (TemporalRegion t) (existsAt x t))))) // axiom label in BFO2 CLIF: [011-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/011-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000116"/>
+        <owl:annotatedTarget xml:lang="en">Continuant doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. For example, in an expansion involving bringing in some of Ceuster&apos;s other portions of reality, questions are raised as to whether universals are continuants</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/0000007"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">A continuant is an entity that persists, endures, or continues to exist through time while maintaining its identity. (axiom label in BFO2 Reference: [008-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/008-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">if b is a continuant and if, for some t, c has_continuant_part b at t, then c is a continuant. (axiom label in BFO2 Reference: [126-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/126-001"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000003 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000003">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <obo:IAO_0000115 xml:lang="en">An occurrent is an entity that unfolds itself in time or it is the instantaneous boundary of such an entity (for example a beginning or an ending) or it is a temporal or spatiotemporal region which such an entity occupies a temporal region or a spatiotemporal region.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">occurrent</rdfs:label>
+        <schema:alternateName xml:lang="en">occurrents</schema:alternateName>
+        <Property:P5191 xml:lang="fr">occurrent</Property:P5191>
+        <Property:P5191 xml:lang="la">occurrēns</Property:P5191>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:allValuesFrom rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000031"/>
+        <obo:BFO_0000179>ic</obo:BFO_0000179>
+        <obo:BFO_0000180>IndependentContinuant</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">a chair</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a heart</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a leg</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a molecule</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a spatial region</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an atom</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an orchestra.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an organism</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the bottom right portion of a human torso</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the interior of your mouth</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A continuant that is a bearer of quality and realizable entity entities, in which other entities inhere and which itself cannot inhere in anything.</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A continuant that is a bearer of quality and realizable entity entities, in which other entities inhere and which itself cannot inhere in anything.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])</obo:IAO_0000115>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/agro.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/dron.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/envo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/po.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ro.owl"/>
+        <obo:IAO_0000601 xml:lang="en">For any independent continuant b and any time t there is some spatial region r such that b is located_in r at t. (axiom label in BFO2 Reference: [134-001])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">For every independent continuant b and time t during the region of time spanned by its life, there are entities which s-depends_on b during t. (axiom label in BFO2 Reference: [018-002])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x t) (if (IndependentContinuant x) (exists (r) (and (SpatialRegion r) (locatedInAt x r t))))) // axiom label in BFO2 CLIF: [134-001] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x t) (if (and (IndependentContinuant x) (existsAt x t)) (exists (y) (and (Entity y) (specificallyDependsOnAt y x t))))) // axiom label in BFO2 CLIF: [018-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(iff (IndependentContinuant a) (and (Continuant a) (not (exists (b t) (specificallyDependsOnAt a b t))))) // axiom label in BFO2 CLIF: [017-002] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">independent continuant</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">independent continuant</rdfs:label>
+        <schema:alternateName xml:lang="en">independent continuants</schema:alternateName>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <Property:P5191 xml:lang="en">independent</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget xml:lang="en">b is an independent continuant = Def. b is a continuant which is such that there is no c and no t such that b s-depends_on c at t. (axiom label in BFO2 Reference: [017-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/017-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">For any independent continuant b and any time t there is some spatial region r such that b is located_in r at t. (axiom label in BFO2 Reference: [134-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/134-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">For every independent continuant b and time t during the region of time spanned by its life, there are entities which s-depends_on b during t. (axiom label in BFO2 Reference: [018-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/018-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x t) (if (IndependentContinuant x) (exists (r) (and (SpatialRegion r) (locatedInAt x r t))))) // axiom label in BFO2 CLIF: [134-001] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/134-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x t) (if (and (IndependentContinuant x) (existsAt x t)) (exists (y) (and (Entity y) (specificallyDependsOnAt y x t))))) // axiom label in BFO2 CLIF: [018-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/018-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(iff (IndependentContinuant a) (and (Continuant a) (not (exists (b t) (specificallyDependsOnAt a b t))))) // axiom label in BFO2 CLIF: [017-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/017-002"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000015 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000015">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000003"/>
+        <obo:IAO_0000115 xml:lang="en">A process is an entity that is identifiable only through the unfolding of time, has temporal parts, and unless otherwise specified/predicted, cannot be identified from any instant of time in which it exists.</obo:IAO_0000115>
+        <oboInOwl:hasDbXref>https://en.wikipedia.org/wiki/Process</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q3249551</oboInOwl:hasDbXref>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">processed</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">processing</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">processual</oboInOwl:hasRelatedSynonym>
+        <rdfs:label xml:lang="en">process</rdfs:label>
+        <schema:alternateName xml:lang="en">processes</schema:alternateName>
+        <Property:P5191 xml:lang="frm">procès</Property:P5191>
+        <Property:P5191 xml:lang="xno">procés</Property:P5191>
+        <Property:P5191 xml:lang="la">prōcessus</Property:P5191>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000016 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000016">
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000017 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000017">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <obo:BFO_0000179>realizable</obo:BFO_0000179>
+        <obo:BFO_0000180>RealizableEntity</obo:BFO_0000180>
+        <obo:IAO_0000111 xml:lang="en">realizable entity</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">the disposition of this piece of metal to conduct electricity.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the disposition of your blood to coagulate</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the function of your reproductive organs</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of being a doctor</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of this boundary to delineate where Utah and Colorado meet</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A specifically dependent continuant  that inheres in continuant  entities and are not exhibited in full at every time in which it inheres in an entity or group of entities. The exhibition or actualization of a realizable entity is a particular manifestation, functioning or process that occurs under certain circumstances.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ons.owl"/>
+        <obo:IAO_0000600 xml:lang="en">To say that b is a realizable entity is to say that b is a specifically dependent continuant that inheres in some independent continuant which is not a spatial region and is of a type instances of which are realized in processes of a correlated type. (axiom label in BFO2 Reference: [058-002])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">All realizable dependent continuants have independent continuants that are not spatial regions as their bearers. (axiom label in BFO2 Reference: [060-002])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x t) (if (RealizableEntity x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (bearerOfAt y x t))))) // axiom label in BFO2 CLIF: [060-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (RealizableEntity x) (and (SpecificallyDependentContinuant x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (inheresIn x y)))))) // axiom label in BFO2 CLIF: [058-002] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">realizable entity</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">To say that b is a realizable entity is to say that b is a specifically dependent continuant that inheres in some independent continuant which is not a spatial region and is of a type instances of which are realized in processes of a correlated type. (axiom label in BFO2 Reference: [058-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/058-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">All realizable dependent continuants have independent continuants that are not spatial regions as their bearers. (axiom label in BFO2 Reference: [060-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/060-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x t) (if (RealizableEntity x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (bearerOfAt y x t))))) // axiom label in BFO2 CLIF: [060-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/060-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (RealizableEntity x) (and (SpecificallyDependentContinuant x) (exists (y) (and (IndependentContinuant y) (not (SpatialRegion y)) (inheresIn x y)))))) // axiom label in BFO2 CLIF: [058-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/058-002"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000019 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000019">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000614"/>
+        <obo:BFO_0000179>quality</obo:BFO_0000179>
+        <obo:BFO_0000180>Quality</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">the ambient temperature of this portion of air</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the color of a tomato</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the length of the circumference of your waist</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the mass of this piece of gold.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the shape of your nose</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the shape of your nostril</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A dependent entity that inheres in a bearer by virtue of how the bearer is related to other entities.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">A quality is an attribute that is intrinsically associated with its bearer (or its parts), but whose presence/absence and observed/measured value may vary.</obo:IAO_0000115>
+        <obo:IAO_0000600 xml:lang="en">a quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized. (axiom label in BFO2 Reference: [055-001])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">If an entity is a quality at any time that it exists, then it is a quality at every time that it exists. (axiom label in BFO2 Reference: [105-001])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x) (if (Quality x) (SpecificallyDependentContinuant x))) // axiom label in BFO2 CLIF: [055-001] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (exists (t) (and (existsAt x t) (Quality x))) (forall (t_1) (if (existsAt x t_1) (Quality x))))) // axiom label in BFO2 CLIF: [105-001] </obo:IAO_0000602>
+        <oboInOwl:hasDbXref>https://en.wikipedia.org/wiki/Quality_(philosophy)</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q1207505</oboInOwl:hasDbXref>
+        <rdfs:comment xml:lang="en">The etymology of &quot;quality&quot; is fairly well elucidated coming from Middle English, from Old French qualité, from Latin qualitatem, accusative of qualitas, from qualis (“of what kind”), from Proto-Indo-European *kʷo- (“who, how”). Cicero coined qualitas as a calque to translate the Ancient Greek word ποιότης (poiótēs, “quality”), coined by Plato from ποῖος (poîos, “of what nature, of what kind”).</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">quality</rdfs:label>
+        <schema:alternateName xml:lang="en">qualities</schema:alternateName>
+        <Property:P5191 xml:lang="la">qualitatem</Property:P5191>
+        <Property:P5191 xml:lang="fro">qualité</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">a quality is a specifically dependent continuant that, in contrast to roles and dispositions, does not require any further process in order to be realized. (axiom label in BFO2 Reference: [055-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/055-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">If an entity is a quality at any time that it exists, then it is a quality at every time that it exists. (axiom label in BFO2 Reference: [105-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/105-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (Quality x) (SpecificallyDependentContinuant x))) // axiom label in BFO2 CLIF: [055-001] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/055-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (exists (t) (and (existsAt x t) (Quality x))) (forall (t_1) (if (existsAt x t_1) (Quality x))))) // axiom label in BFO2 CLIF: [105-001] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/105-001"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000020">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/BFO_0000050"/>
+                <owl:allValuesFrom rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000031"/>
+        <obo:BFO_0000179>sdc</obo:BFO_0000179>
+        <obo:BFO_0000180>SpecificallyDependentContinuant</obo:BFO_0000180>
+        <obo:IAO_0000111 xml:lang="en">specifically dependent continuant</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">Reciprocal specifically dependent continuants: the function of this key to open this lock and the mutually dependent disposition of this lock: to be opened by this key</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">of one-sided specifically dependent continuants: the mass of this tomato</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">of relational dependent continuants (multiple bearers): John’s love for Mary, the ownership relation between John and this statue, the relation of authority between John and his subordinates.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the disposition of this fish to decay</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the function of this heart: to pump blood</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the mutual dependence of proton donors and acceptors in chemical reactions [79</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the mutual dependence of the role predator and the role prey as played by two organisms in a given interaction</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the pink color of a medium rare piece of grilled filet mignon at its center</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of being a doctor</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the shape of this hole.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the smell of this portion of mozzarella</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">A continuant that inheres in or is borne by other entities. Every instance of A requires some specific instance of B which must always be the same.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is a relational specifically dependent continuant = Def. b is a specifically dependent continuant and there are n &amp;gt; 1 independent continuants c1, … cn which are not spatial regions are such that for all 1  i &amp;lt; j  n, ci  and cj share no common parts, are such that for each 1  i  n, b s-depends_on ci at every time t during the course of b’s existence (axiom label in BFO2 Reference: [131-004])</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is a specifically dependent continuant = Def. b is a continuant &amp; there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">b is a specifically dependent continuant = Def. b is a continuant &amp; there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">Specifically dependent continuant doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. We&apos;re not sure what else will develop here, but for example there are questions such as what are promises, obligation, etc.</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ons.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/pato.owl"/>
+        <obo:IAO_0000602>(iff (RelationalSpecificallyDependentContinuant a) (and (SpecificallyDependentContinuant a) (forall (t) (exists (b c) (and (not (SpatialRegion b)) (not (SpatialRegion c)) (not (= b c)) (not (exists (d) (and (continuantPartOfAt d b t) (continuantPartOfAt d c t)))) (specificallyDependsOnAt a b t) (specificallyDependsOnAt a c t)))))) // axiom label in BFO2 CLIF: [131-004] </obo:IAO_0000602>
+        <obo:IAO_0000602>(iff (SpecificallyDependentContinuant a) (and (Continuant a) (forall (t) (if (existsAt a t) (exists (b) (and (IndependentContinuant b) (not (SpatialRegion b)) (specificallyDependsOnAt a b t))))))) // axiom label in BFO2 CLIF: [050-003] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">specifically dependent continuant</rdfs:label>
+        <schema:alternateName xml:lang="en">specifically dependent continuants</schema:alternateName>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000002"/>
+        <Property:P5191 xml:lang="en">dependent</Property:P5191>
+        <Property:P5191 xml:lang="en">specifically</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget xml:lang="en">b is a relational specifically dependent continuant = Def. b is a specifically dependent continuant and there are n &amp;gt; 1 independent continuants c1, … cn which are not spatial regions are such that for all 1  i &amp;lt; j  n, ci  and cj share no common parts, are such that for each 1  i  n, b s-depends_on ci at every time t during the course of b’s existence (axiom label in BFO2 Reference: [131-004])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/131-004"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <owl:annotatedTarget xml:lang="en">b is a specifically dependent continuant = Def. b is a continuant &amp; there is some independent continuant c which is not a spatial region and which is such that b s-depends_on c at every time t during the course of b’s existence. (axiom label in BFO2 Reference: [050-003])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/050-003"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000116"/>
+        <owl:annotatedTarget xml:lang="en">Specifically dependent continuant doesn&apos;t have a closure axiom because the subclasses don&apos;t necessarily exhaust all possibilites. We&apos;re not sure what else will develop here, but for example there are questions such as what are promises, obligation, etc.</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/0000005"/>
+        <rdfs:comment>per discussion with Barry Smith</rdfs:comment>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(iff (RelationalSpecificallyDependentContinuant a) (and (SpecificallyDependentContinuant a) (forall (t) (exists (b c) (and (not (SpatialRegion b)) (not (SpatialRegion c)) (not (= b c)) (not (exists (d) (and (continuantPartOfAt d b t) (continuantPartOfAt d c t)))) (specificallyDependsOnAt a b t) (specificallyDependsOnAt a c t)))))) // axiom label in BFO2 CLIF: [131-004] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/131-004"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000020"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(iff (SpecificallyDependentContinuant a) (and (Continuant a) (forall (t) (if (existsAt a t) (exists (b) (and (IndependentContinuant b) (not (SpatialRegion b)) (specificallyDependsOnAt a b t))))))) // axiom label in BFO2 CLIF: [050-003] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/050-003"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000023 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000023">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000017"/>
+        <obo:BFO_0000179>role</obo:BFO_0000179>
+        <obo:BFO_0000180>Role</obo:BFO_0000180>
+        <obo:IAO_0000112 xml:lang="en">John’s role of husband to Mary is dependent on Mary’s role of wife to John, and both are dependent on the object aggregate comprising John and Mary as member parts joined together through the relational quality of being married.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the priest role</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of a boundary to demarcate two neighboring administrative territories</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of a building in serving as a military target</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of a stone in marking a property boundary</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the role of subject in a clinical trial</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the student role</obo:IAO_0000112>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: One major family of examples of non-rigid universals involves roles, and ontologies developed for corresponding administrative purposes may consist entirely of representatives of entities of this sort. Thus ‘professor’, defined as follows,b instance_of professor at t =Def. there is some c, c instance_of professor role &amp; c inheres_in b at t.denotes a non-rigid universal and so also do ‘nurse’, ‘student’, ‘colonel’, ‘taxpayer’, and so forth. (These terms are all, in the jargon of philosophy, phase sortals.) By using role terms in definitions, we can create a BFO conformant treatment of such entities drawing on the fact that, while an instance of professor may be simultaneously an instance of trade union member, no instance of the type professor role is also (at any time) an instance of the type trade union member role (any more than any instance of the type color is at any time an instance of the type length).If an ontology of employment positions should be defined in terms of roles following the above pattern, this enables the ontology to do justice to the fact that individuals instantiate the corresponding universals –  professor, sergeant, nurse – only during certain phases in their lives.</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000600 xml:lang="en">b is a role means: b is a realizable entity &amp; b exists because there is some single bearer that is in some special physical, social, or institutional set of circumstances in which this bearer does not have to be&amp; b is not such that, if it ceases to exist, then the physical make-up of the bearer is thereby changed. (axiom label in BFO2 Reference: [061-001])</obo:IAO_0000600>
+        <obo:IAO_0000602>(forall (x) (if (Role x) (RealizableEntity x))) // axiom label in BFO2 CLIF: [061-001] </obo:IAO_0000602>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label xml:lang="en">role</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">b is a role means: b is a realizable entity &amp; b exists because there is some single bearer that is in some special physical, social, or institutional set of circumstances in which this bearer does not have to be&amp; b is not such that, if it ceases to exist, then the physical make-up of the bearer is thereby changed. (axiom label in BFO2 Reference: [061-001])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/061-001"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000023"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (Role x) (RealizableEntity x))) // axiom label in BFO2 CLIF: [061-001] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/061-001"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000030 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000030">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <obo:IAO_0000115 xml:lang="en">An object is an entity that is wholly identifiable at any instant of time during which it exists.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">object</rdfs:label>
+        <schema:alternateName xml:lang="en">objects</schema:alternateName>
+        <Property:P5191 xml:lang="la">obiectum</Property:P5191>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000031 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000031"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000040 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000040">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000004"/>
+        <owl:disjointWith rdf:resource="http://purl.obolibrary.org/obo/BFO_0000141"/>
+        <obo:BFO_0000179>material</obo:BFO_0000179>
+        <obo:BFO_0000180>MaterialEntity</obo:BFO_0000180>
+        <obo:IAO_0000111>material entity</obo:IAO_0000111>
+        <obo:IAO_0000111 xml:lang="en">material entity</obo:IAO_0000111>
+        <obo:IAO_0000112 xml:lang="en">a flame</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a forest fire</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a human being</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a hurricane</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a photon</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a puff of smoke</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a sea wave</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">a tornado</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an aggregate of human beings.</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an energy wave</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">an epidemic</obo:IAO_0000112>
+        <obo:IAO_0000112 xml:lang="en">the undetached arm of a human being</obo:IAO_0000112>
+        <obo:IAO_0000115 xml:lang="en">An independent continuant that is spatially extended whose identity is independent of that of other entities and can be maintained through time.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: Material entities (continuants) can preserve their identity even while gaining and losing material parts. Continuants are contrasted with occurrents, which unfold themselves in successive temporal parts or phases [60</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: Object, Fiat Object Part and Object Aggregate are not intended to be exhaustive of Material Entity. Users are invited to propose new subcategories of Material Entity.</obo:IAO_0000116>
+        <obo:IAO_0000116 xml:lang="en">BFO 2 Reference: ‘Matter’ is intended to encompass both mass and energy (we will address the ontological treatment of portions of energy in a later version of BFO). A portion of matter is anything that includes elementary particles among its proper or improper parts: quarks and leptons, including electrons, as the smallest particles thus far discovered; baryons (including protons and neutrons) at a higher level of granularity; atoms and molecules at still higher levels, forming the cells, organs, organisms and other material entities studied by biologists, the portions of rock studied by geologists, the fossils studied by paleontologists, and so on.Material entities are three-dimensional entities (entities extended in three spatial dimensions), as contrasted with the processes in which they participate, which are four-dimensional entities (entities extended also along the dimension of time).According to the FMA, material entities may have immaterial entities as parts – including the entities identified below as sites; for example the interior (or ‘lumen’) of your small intestine is a part of your body. BFO 2.0 embodies a decision to follow the FMA here.</obo:IAO_0000116>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/cdno.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/dron.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/envo.owl"/>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/obi.owl"/>
+        <obo:IAO_0000600 xml:lang="en">A material entity is an independent continuant that has some portion of matter as proper or improper continuant part. (axiom label in BFO2 Reference: [019-002])</obo:IAO_0000600>
+        <obo:IAO_0000601 xml:lang="en">Every entity which has a material entity as continuant part is a material entity. (axiom label in BFO2 Reference: [020-002])</obo:IAO_0000601>
+        <obo:IAO_0000601 xml:lang="en">every entity of which a material entity is continuant part is also a material entity. (axiom label in BFO2 Reference: [021-002])</obo:IAO_0000601>
+        <obo:IAO_0000602>(forall (x) (if (MaterialEntity x) (IndependentContinuant x))) // axiom label in BFO2 CLIF: [019-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (and (Entity x) (exists (y t) (and (MaterialEntity y) (continuantPartOfAt x y t)))) (MaterialEntity x))) // axiom label in BFO2 CLIF: [021-002] </obo:IAO_0000602>
+        <obo:IAO_0000602>(forall (x) (if (and (Entity x) (exists (y t) (and (MaterialEntity y) (continuantPartOfAt y x t)))) (MaterialEntity x))) // axiom label in BFO2 CLIF: [020-002] </obo:IAO_0000602>
+        <oboInOwl:hasOBONamespace>bfo</oboInOwl:hasOBONamespace>
+        <oboInOwl:id>BFO:0000040</oboInOwl:id>
+        <rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/bfo.owl"/>
+        <rdfs:label>material entity</rdfs:label>
+        <rdfs:label xml:lang="en">material entity</rdfs:label>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000600"/>
+        <owl:annotatedTarget xml:lang="en">A material entity is an independent continuant that has some portion of matter as proper or improper continuant part. (axiom label in BFO2 Reference: [019-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/019-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">Every entity which has a material entity as continuant part is a material entity. (axiom label in BFO2 Reference: [020-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/020-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000601"/>
+        <owl:annotatedTarget xml:lang="en">every entity of which a material entity is continuant part is also a material entity. (axiom label in BFO2 Reference: [021-002])</owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/021-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (MaterialEntity x) (IndependentContinuant x))) // axiom label in BFO2 CLIF: [019-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/019-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (and (Entity x) (exists (y t) (and (MaterialEntity y) (continuantPartOfAt x y t)))) (MaterialEntity x))) // axiom label in BFO2 CLIF: [021-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/021-002"/>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <owl:annotatedProperty rdf:resource="http://purl.obolibrary.org/obo/IAO_0000602"/>
+        <owl:annotatedTarget>(forall (x) (if (and (Entity x) (exists (y t) (and (MaterialEntity y) (continuantPartOfAt y x t)))) (MaterialEntity x))) // axiom label in BFO2 CLIF: [020-002] </owl:annotatedTarget>
+        <obo:IAO_0010000 rdf:resource="http://purl.obolibrary.org/obo/bfo/axiom/020-002"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/BFO_0000141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/BFO_0000141"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/CHEBI_26178 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/CHEBI_26178"/>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_00003368 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_00003368">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000040"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">Food contact materials are materials that are intended to be in contact with food. These can be things that are quite obvious like a glass or a can for soft drinks as well as machinery in a food factory or a coffee machine.</obo:IAO_0000115>
+        <obo:IAO_0000117 rdf:resource="http://orcid.org/0000-0002-8844-9165"/>
+        <obo:IAO_0000119 rdf:resource="https://en.wikipedia.org/wiki/Food_contact_materials"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-31T17:07:09Z</dc:date>
+        <rdfs:label xml:lang="en">food contact material</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490100 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490100">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_00003368"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000122"/>
+        <obo:IAO_0000115 xml:lang="en">A food contact material which encloses the food and can be in the type of a container, packaging or wrapping.</obo:IAO_0000115>
+        <obo:IAO_0000116 xml:lang="en">Previous definition was a legacy definition, not ontological and has been moved to comments.</obo:IAO_0000116>
+        <obo:IAO_0000117>http://orcid.org/0000-0001-8008-8249</obo:IAO_0000117>
+        <obo:IAO_0000119>https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/food-packaging</obo:IAO_0000119>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasBroadSynonym xml:lang="en">container</oboInOwl:hasBroadSynonym>
+        <oboInOwl:hasBroadSynonym xml:lang="en">packaging</oboInOwl:hasBroadSynonym>
+        <oboInOwl:hasBroadSynonym xml:lang="en">wrapping</oboInOwl:hasBroadSynonym>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0100</oboInOwl:hasDbXref>
+        <oboInOwl:hasExactSynonym xml:lang="en">food container</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">food wrap</oboInOwl:hasExactSynonym>
+        <oboInOwl:hasExactSynonym xml:lang="en">food wrapping</oboInOwl:hasExactSynonym>
+        <rdfs:comment xml:lang="en">Previous definition: Type of container or wrapping defined by the main container material, the container form and the material of the liner lids of ends. Also type of container or wrapping by form; prefer description by material first, then by form. [FDA CFSAN 1995].</rdfs:comment>
+        <rdfs:label xml:lang="en">food packaging</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490172 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490172">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490202"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Corresponds to FSTA Thesaurus Packaging 2.2.1 Plastic container.</obo:IAO_0000115>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0172</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">plastic container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490202 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490202">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490100"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Classification corresponding to FSTA Thesaurus Packaging 2.1.2 Material</obo:IAO_0000115>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0202</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">container or wrapping by material</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490357 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490357">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490172"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000115 xml:lang="en">Corresponds to FSTA Thesaurus Packaging 2.2.1 &apos;Type of plastic&apos;</obo:IAO_0000115>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0357</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">plastic container, according to type of plastic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490358 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490358">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490357"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0358</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">thermoplastic sheet or container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490364 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490364">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490358"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0001000"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/CHEBI_26178"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0364</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">polyester container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490374 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490374">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490431"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0374</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">polypropylene container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490430 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490430">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490364"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0430</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">polyethylene terephthalate (pet) container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FOODON_03490431 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FOODON_03490431">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/FOODON_03490358"/>
+        <obo:IAO_0000114 rdf:resource="http://purl.obolibrary.org/obo/IAO_0000428"/>
+        <obo:IAO_0000412>http://langual.org</obo:IAO_0000412>
+        <oboInOwl:hasDbXref>http://www.langual.org/langual_thesaurus.asp?termid=M0431</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">polyolefin container</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_000028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_000028">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+        <obo:IAO_0000115 xml:lang="en">Any process involving the economy, economics, or finances.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">economic process</rdfs:label>
+        <schema:alternateName xml:lang="en">economic processes</schema:alternateName>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000015"/>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_000492 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_000492">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <obo:IAO_0000115 xml:lang="en">Information content entity that is an empirical result found to be meaningful to one or more person(s) or a community, such that it can be interpreted by them in ways that they value, and which arises from a systematic analytic and/or deliberative process of investigation and study of other information content entities, that are often, but not exclusively other data item(s), thereby accounting for those other information content entities.</obo:IAO_0000115>
+        <oboInOwl:hasSynonym xml:lang="en">knowledge entity</oboInOwl:hasSynonym>
+        <rdfs:label xml:lang="en">knowledge content entity</rdfs:label>
+        <schema:alternateName xml:lang="en">knowledge content entities</schema:alternateName>
+        <Property:P1036 rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</Property:P1036>
+        <Property:P1813 xml:lang="en">knowledge</Property:P1813>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <Property:P5191 xml:lang="en">content</Property:P5191>
+        <Property:P5191 xml:lang="en">knowledge</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GSSO_000492"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1036"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</owl:annotatedTarget>
+        <schema:bookEdition rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</schema:bookEdition>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GSSO_000492"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1813"/>
+        <owl:annotatedTarget xml:lang="en">knowledge</owl:annotatedTarget>
+        <terms:isReferencedBy rdf:resource="https://doi.org/10.1002/9781118663219"/>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q9081</oboInOwl:hasDbXref>
+        <Property:P486 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.bioontology.org/ontology/MESH/D019359</Property:P486>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_002345 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_002345">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_000492"/>
+        <obo:IAO_0000115 xml:lang="en">A branch of knowledge.</obo:IAO_0000115>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">area of knowledge</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">content area</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasSynonym xml:lang="en">field of knowledge</oboInOwl:hasSynonym>
+        <rdfs:label xml:lang="en">knowledge field</rdfs:label>
+        <schema:alternateName xml:lang="en">knowledge fields</schema:alternateName>
+        <Property:P1748 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.obolibrary.org/obo/NCIT_C70772</Property:P1748>
+        <Property:P1813 xml:lang="en">field</Property:P1813>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GSSO_002345"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+        <owl:annotatedTarget xml:lang="en">area of knowledge</owl:annotatedTarget>
+        <schema:alternateName xml:lang="en">areas of knowledge</schema:alternateName>
+        <Property:P1813 xml:lang="en">AOK</Property:P1813>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GSSO_002345"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+        <owl:annotatedTarget xml:lang="en">content area</owl:annotatedTarget>
+        <schema:alternateName xml:lang="en">content areas</schema:alternateName>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_002346 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_002346">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_002345"/>
+        <obo:IAO_0000115 xml:lang="en">Fields of inquiry in human constructs and concerns as opposed to natural processes and social relations. These are traditionally the study of literature, philosophy, and religion.</obo:IAO_0000115>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Category:Humanities</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Humanities</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Outline_of_the_humanities</oboInOwl:hasDbXref>
+        <oboInOwl:hasSynonym xml:lang="en">the humanities</oboInOwl:hasSynonym>
+        <rdfs:label xml:lang="en">humanities</rdfs:label>
+        <wiki:Q1823134 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://id.loc.gov/authorities/subjects/sh85062913</wiki:Q1823134>
+        <Property:P1149>AZ</Property:P1149>
+        <Property:P486 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.bioontology.org/ontology/MESH/D006809</Property:P486>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_002368 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_002368">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_002346"/>
+        <obo:IAO_0000115 xml:lang="en">Humanities fields that form the basis of humanities studies; i.e. non-applied humanities.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">basic humanities</rdfs:label>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/GSSO_002346"/>
+        <Property:P5191 xml:lang="en">basic</Property:P5191>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_003088 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_003088">
+        <rdfs:subClassOf rdf:resource="http://purl.bioontology.org/ontology/MESH/D010684"/>
+        <obo:IAO_0000115 xml:lang="en">Philosophy fields that form the basis of philosophy; i.e. non-applied philosophies.</obo:IAO_0000115>
+        <rdfs:label xml:lang="en">basic philosophy</rdfs:label>
+        <schema:alternateName xml:lang="en">basic philosophies</schema:alternateName>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_006810 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_006810">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/GSSO_000028"/>
+        <obo:IAO_0000115 xml:lang="en">A public sector term, is the process by which the economic well-being and quality of life of a nation, region or local community are improved according to targeted goals and objectives.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Mobilization of human, financial, capital, physical and or natural resources to generate goods and services.. Increase in the level of production of goods and services.</obo:IAO_0000115>
+        <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://homosaurus.org/terms/economicDevelopments</dc:identifier>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Category:Economic_development</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Economic_development</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q4530482</oboInOwl:hasDbXref>
+        <rdfs:label xml:lang="en">economic development</rdfs:label>
+        <schema:alternateName xml:lang="en">economic developments</schema:alternateName>
+        <Property:P486 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.bioontology.org/ontology/MESH/D057217</Property:P486>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://purl.obolibrary.org/obo/GSSO_006810"/>
+        <owl:annotatedProperty rdf:resource="http://purl.org/dc/elements/1.1/identifier"/>
+        <owl:annotatedTarget rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://homosaurus.org/terms/economicDevelopments</owl:annotatedTarget>
+        <terms:source rdf:resource="http://web.archive.org/web/20160404165237/https://homosaurus.org/terms"/>
+    </owl:Axiom>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/GSSO_008493 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/GSSO_008493">
+        <rdfs:subClassOf rdf:resource="http://purl.bioontology.org/ontology/MESH/D004954"/>
+        <obo:IAO_0000115 xml:lang="en">A popular aesthetic expression at a particular time and place and in a specific context, especially in clothing, footwear, lifestyle, accessories, makeup, hairstyle, and body proportions.</obo:IAO_0000115>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Category:Fashion</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Fashion</oboInOwl:hasDbXref>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">fashionable</oboInOwl:hasRelatedSynonym>
+        <rdfs:label xml:lang="en">fashion</rdfs:label>
+        <wiki:Q1823134 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://id.loc.gov/authorities/subjects/sh85047377</wiki:Q1823134>
+        <Property:P1149>GT500-GT2370</Property:P1149>
+        <Property:P1149>TT500-TT645</Property:P1149>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C16548 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C16548">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <obo:IAO_0000115>The discipline concerned with the application of scientific knowledge to solve practical issues in commerce or industry.</obo:IAO_0000115>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncit.owl"/>
+        <obo:IAO_0000412 xml:lang="en">NCIT</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:label xml:lang="en">Engineering Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C17141 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C17141">
+        <rdfs:subClassOf rdf:resource="http://www.fairsharing.org/ontology/subject/SRAO_0000041"/>
+        <obo:IAO_0000115>Comprises the scientific study of the human aspects of the world. They are also known as social studies. Psychology studies the human mind, sociology examines human society, political science studies the governing of groups and economics concerns itself with the allocation of wealth in society.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncit.owl"/>
+        <obo:IAO_0000412 xml:lang="en">NCIT</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 5.6.2019: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Social Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/NCIT_C17735 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/NCIT_C17735">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C17141"/>
+        <obo:IAO_0000115>A plan of action adopted by an individual or social group.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000412 rdf:resource="http://purl.obolibrary.org/obo/ncit.owl"/>
+        <obo:IAO_0000412 xml:lang="en">NCIT</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 21.5.2019: Added as a new parent for Social Policy and Economic Policy in a placement consistent with the NCIT hierarchy.</rdfs:comment>
+        <rdfs:label xml:lang="en">Policy</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0000110 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0000110">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000019"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MeSH_term</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0001004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0001004">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0000110"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chemicals and Drugs Category</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0001008 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0001008">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0000110"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disciplines and Occupations Category</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0001010 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0001010">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0000110"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology,Industry,Agriculture Category</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0001014 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0001014">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0000110"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health Care Category</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0001896 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0001896">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0007980"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkenes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0003058 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0003058">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001004"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0009487"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0020214"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Biomedical and Dental Materials</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0006020 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0006020">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001014"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environment and Public Health</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0006028 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0006028">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0020086"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toxic Actions</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0006029 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0006029">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0012573"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Environmental Pollution</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0007429 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0007429">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0015694"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0016151"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hazardous Waste</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0007435 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0007435">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0012120"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0007453 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0007453">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001008"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Health Occupations</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0007979 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0007979">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0010942"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hydrocarbons</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0007980 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0007980">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0007979"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hydrocarbons, Acyclic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0009487 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0009487">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0014533"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manufactured Materials</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0009577 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0009577">
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_4318"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0007453"/>
+        <obo:IAO_0000115 xml:lang="en">Medicine is the science or practice of the diagnosis, treatment, and prevention of disease.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from OED, AL 5.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">OMIT</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 11.6.2019: This class has been refactored from EDAM to OMIT to better align with FAIRsharing curation guidelines.</rdfs:comment>
+        <rdfs:label xml:lang="en">Medicine</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Medicine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0010942 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0010942">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001004"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Organic Chemicals</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0011790 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0011790">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <obo:IAO_0000115 xml:lang="en">Natural Science is the branch of knowledge that deals with the natural or physical world, in contrast to the social sciences and human sciences.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from OED, AL 17.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 5.6.2019: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Natural Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0011942 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0011942">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0012075"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Plastics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0012058 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0012058">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001896"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polyenes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0012063 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0012063">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0011942"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0012058"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polyethylenes</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0012075 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0012075">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0003058"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0023832"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polymers</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0012120 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0012120">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001014"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Population Characteristics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0012573 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0012573">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0006020"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0007435"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0009577"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Public Health</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0014533 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0014533">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001010"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Technology, Industry, and Agriculture</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0015694 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0015694">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0006029"/>
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0023600"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Waste Products</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0016151 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0016151">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0006028"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hazardous Substances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0019621 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0019621">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001010"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Food and Beverages</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0020086 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0020086">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001004"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chemical Actions and Uses</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0020214 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0020214">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0020086"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Specialty Uses of Chemicals</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0020780 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0020780">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0012063"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polyethylene</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0023600 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0023600">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001004"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Complex Mixtures</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0023832 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0023832">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0001004"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Macromolecular Substances</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/OMIT_0026615 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/OMIT_0026615">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OMIT_0011790"/>
+        <obo:IAO_0000115 xml:lang="en">Earth Science is the science that deals with the earth or any part thereof; includes the disciplines of geology, geography, oceanography and meteorology, among others. [GEMET https://www.eionet.europa.eu/gemet/en/concept/2405, AL 12.6.2019]</obo:IAO_0000115>
+        <obo:IAO_0000118 xml:lang="en">Geoscience</obo:IAO_0000118>
+        <obo:IAO_0000412 xml:lang="en">OMIT</obo:IAO_0000412>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment>AL 10.11.2017: Aligned with the OMIT &apos;Earth Sciences&apos; class, as this is the label and URI used within FAIRsharing.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AL 5.6.2019: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Earth Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000000 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000000">
+        <dc:identifier>SIO_000000</dc:identifier>
+        <terms:description xml:lang="en">Every thing is an entity.</terms:description>
+        <resource:subset>core</resource:subset>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000015 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000015">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/BFO_0000030"/>
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000776"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000053"/>
+                <owl:allValuesFrom rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <obo:IAO_0000115 xml:lang="en">A generically dependent continuant that is about some thing.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">An information entity is an entity that represents information about some other entity. For example, a measurement, a clustered data set.</obo:IAO_0000115>
+        <obo:IAO_0000115 xml:lang="en">Information content entity is an object that requires some background knowledge or procedure to correctly interpret.</obo:IAO_0000115>
+        <dc:identifier>SIO_000015</dc:identifier>
+        <terms:description xml:lang="en">information content entity is an object that requires some background knowledge or procedure to correctly interpret.</terms:description>
+        <resource:subset>core</resource:subset>
+        <resource:subset>ice+</resource:subset>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">information artifact</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasRelatedSynonym xml:lang="en">information resource</oboInOwl:hasRelatedSynonym>
+        <oboInOwl:hasSynonym xml:lang="en">information entity</oboInOwl:hasSynonym>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">information content entity</rdfs:label>
+        <schema:alternateName xml:lang="en">information content entities</schema:alternateName>
+        <Property:P1813 xml:lang="en">content</Property:P1813>
+        <Property:P1813 xml:lang="en">content entity</Property:P1813>
+        <Property:P1813 xml:lang="en">information</Property:P1813>
+        <Property:P1813 xml:lang="en">information content</Property:P1813>
+        <Property:P5191 rdf:resource="http://purl.obolibrary.org/obo/BFO_0000001"/>
+        <Property:P5191 xml:lang="en">content</Property:P5191>
+        <Property:P5191 xml:lang="en">information</Property:P5191>
+    </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+        <owl:annotatedTarget xml:lang="en">information artifact</owl:annotatedTarget>
+        <schema:alternateName xml:lang="en">information artifacts</schema:alternateName>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym"/>
+        <owl:annotatedTarget xml:lang="en">information resource</owl:annotatedTarget>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q37866906</oboInOwl:hasDbXref>
+        <schema:alternateName xml:lang="en">information resources</schema:alternateName>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="http://www.geneontology.org/formats/oboInOwl#hasSynonym"/>
+        <owl:annotatedTarget xml:lang="en">information entity</owl:annotatedTarget>
+        <schema:alternateName xml:lang="en">information entities</schema:alternateName>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1813"/>
+        <owl:annotatedTarget xml:lang="en">content</owl:annotatedTarget>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Content_(media)</oboInOwl:hasDbXref>
+        <schema:alternateName xml:lang="en">contents</schema:alternateName>
+        <Property:P1748 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.obolibrary.org/obo/NCIT_C44476</Property:P1748>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1813"/>
+        <owl:annotatedTarget xml:lang="en">content entity</owl:annotatedTarget>
+        <schema:alternateName xml:lang="en">content entities</schema:alternateName>
+    </owl:Axiom>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <owl:annotatedProperty rdf:resource="https://www.wikidata.org/wiki/Property:P1813"/>
+        <owl:annotatedTarget xml:lang="en">information</owl:annotatedTarget>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://en.wikipedia.org/wiki/Information</oboInOwl:hasDbXref>
+        <oboInOwl:hasDbXref rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.wikidata.org/wiki/Q11028</oboInOwl:hasDbXref>
+        <Property:P1748 rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.obolibrary.org/obo/NCIT_C48191</Property:P1748>
+        <Property:P1813 xml:lang="en">info</Property:P1813>
+    </owl:Axiom>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000078 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000078">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000015"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000300"/>
+                <owl:someValuesFrom rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:identifier>SIO_000078</dc:identifier>
+        <terms:description xml:lang="en">A language entity implements some language specification for the visual interpretation and is part of some document.</terms:description>
+        <resource:subset>nlp+</resource:subset>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">language entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000148 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000148">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000651"/>
+        <dc:identifier>SIO_000148</dc:identifier>
+        <terms:description xml:lang="en">A document is a bounded physical or digital representation of a body of information designed with the capacity (and usually intent) to communicate.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">document</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000370 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000370">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000776"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000028"/>
+                <owl:allValuesFrom rdf:resource="http://semanticscience.org/resource/SIO_000370"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:identifier>SIO_000370</dc:identifier>
+        <terms:alternative>region</terms:alternative>
+        <terms:description xml:lang="en">A spatial region is an object contained in some region of space.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">spatial region</rdfs:label>
+        <skos:example xml:lang="en">The airspace above Ottawa airport; the band around the northern hemisphere between 50 degrees N and 60 degrees N; the spatial region occupied by a bottle.</skos:example>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000414 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000414">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000370"/>
+        <dc:identifier>SIO_000414</dc:identifier>
+        <terms:description xml:lang="en">A geographic region is a spatial region whose boundaries are typically defined against some material frame of reference (like the earth).</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">geographic region</rdfs:label>
+        <skos:example xml:lang="en">The spatial region occupied by the province of ontario; the spatial region occupied by a lake.</skos:example>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000614 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000614">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000000"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000011"/>
+                <owl:someValuesFrom rdf:resource="http://semanticscience.org/resource/SIO_000000"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:identifier>SIO_000614</dc:identifier>
+        <terms:description xml:lang="en">An attribute is a characteristic of some entity.</terms:description>
+        <resource:subset>core</resource:subset>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">attribute</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000651 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000651">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000078"/>
+        <dc:identifier>SIO_000651</dc:identifier>
+        <terms:description xml:lang="en">A textual entity is language entity that is manifested as a sequence of one or more distinct characters.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">textual entity</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000776 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000776">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000000"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://semanticscience.org/resource/SIO_000053"/>
+                <owl:allValuesFrom rdf:resource="http://semanticscience.org/resource/SIO_000776"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <dc:identifier>SIO_000776</dc:identifier>
+        <terms:description xml:lang="en">An object is an entity that is wholly identifiable at any instant of time during which it exists.</terms:description>
+        <resource:subset>core</resource:subset>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">object</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_000955 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_000955">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000414"/>
+        <dc:identifier>SIO_000955</dc:identifier>
+        <terms:description>An environment is a geographic region that hosts certain processes or objects.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">environment</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_001026 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_001026">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000148"/>
+        <dc:identifier>SIO_001026</dc:identifier>
+        <terms:description xml:lang="en">A report is a textual document made that present focused, salient content to a specific audience.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">report</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_001372 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_001372">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_001373"/>
+        <dc:identifier>SIO_001372</dc:identifier>
+        <terms:description xml:lang="en">A legal document proposing or enacting a law or a group of laws.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">legislation</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://semanticscience.org/resource/SIO_001373 -->
+
+    <owl:Class rdf:about="http://semanticscience.org/resource/SIO_001373">
+        <rdfs:subClassOf rdf:resource="http://semanticscience.org/resource/SIO_000148"/>
+        <dc:identifier>SIO_001373</dc:identifier>
+        <terms:description xml:lang="en">A legal document is a formally executed written document that can be formally attributed to its author, records and formally expresses a legally enforceable act, process, or contractual duty, obligation, or right, and therefore evidences that act, process, or agreement.</terms:description>
+        <rdfs:isDefinedBy rdf:resource="http://semanticscience.org/ontology/sio.owl"/>
+        <rdfs:label xml:lang="en">legal document</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000002 -->
+
+    <owl:Class rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000002">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <obo:IAO_0000115 xml:lang="en">Humanities and Social Sciences is a broad multi-disciplinary research area incorporating both the Humanities and the Social Sciences. One differentiator for these two closely-related subjects is that humanities are predominately interested in studying the specifics and the &apos;unique&apos;, while social sciences are mainly interested in the general / population level.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from https://www.thebritishacademy.ac.uk/blog/what-social-science, AL 17.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 17.11.21: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AL 3.6.2019: This &apos;composite term&apos; (a class describing multiple concepts) is a standard conflation within this research area and is therefore retained. This is in contrast with the general rule within FAIRsharing to refactor composite terms.</rdfs:comment>
+        <rdfs:label xml:lang="en">Humanities and Social Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000041 -->
+
+    <owl:Class rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000041">
+        <rdfs:subClassOf rdf:resource="http://www.fairsharing.org/ontology/subject/SRAO_0000002"/>
+        <obo:IAO_0000115 xml:lang="en">Social and Behavioral Science is a broad area of study that applies to a unique range of disciplines -- anthropology, sociology, and psychology, among them -- that are primarily concerned with the analysis of human behavior.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from https://www.ashford.edu/online-degrees/social-behavioral-science/what-is-social-and-behavioral-science, AL 12.6.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL 3.6.2019: This &apos;composite term&apos; (a class describing multiple concepts) is a standard conflation within this research area and is therefore retained. This is in contrast with the general rule within FAIRsharing to refactor composite terms.</rdfs:comment>
+        <rdfs:comment xml:lang="en">AL 5.6.2019: The label was modified from plural to singular according to FAIRsharing best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Social and Behavioural Science</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000198 -->
+
+    <owl:Class rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000198">
+        <rdfs:subClassOf rdf:resource="http://aims.fao.org/aos/agrovoc/c_3235"/>
+        <obo:IAO_0000115 xml:lang="en">Geoinformatics is the science of developing and using information science infrastructure to address the problems of geography, cartography, geosciences and related branches of science and engineering.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Adapted from Wikipedia https://en.wikipedia.org/wiki/Geoinformatics, AL 8.5.2019</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment xml:lang="en">AL: 8.5.2019 Refactored re3data composite class &apos;Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy&apos; into parent class &apos;Geoinformatics&apos; and child classes &apos;Geodesy&apos;, &apos;Photogrammetry&apos;, &apos;Remote Sensing&apos; and &apos;Cartography&apos; according to FAIRsharing curation best practises.</rdfs:comment>
+        <rdfs:label xml:lang="en">Geoinformatics</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000243 -->
+
+    <owl:Class rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000243">
+        <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/NCIT_C16548"/>
+        <obo:IAO_0000115 xml:lang="en">Systems Engineering is concerned with the investigation of complex, man-made systems in relation to the apparatus that is or might be involved in them.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Peter McQuilton</obo:IAO_0000117>
+        <obo:IAO_0000119 xml:lang="en">Oxford English Dictionary, PAM 27.02.2018</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:label xml:lang="en">Systems Engineering</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.fairsharing.org/ontology/subject/SRAO_0000244 -->
+
+    <owl:Class rdf:about="http://www.fairsharing.org/ontology/subject/SRAO_0000244">
+        <rdfs:subClassOf rdf:resource="http://www.fairsharing.org/ontology/subject/SRAO_0000243"/>
+        <obo:IAO_0000115>Robotics is an interdisciplinary branch of engineering and science that deals with the design, construction, operation, and use of robots, as well as computer systems for their control, sensory feedback, and information processing.</obo:IAO_0000115>
+        <obo:IAO_0000117 xml:lang="en">Allyson Lister</obo:IAO_0000117>
+        <obo:IAO_0000118 xml:lang="en">Mechatronics</obo:IAO_0000118>
+        <obo:IAO_0000119 xml:lang="en">AL, modified from Wikipedia https://en.wikipedia.org/wiki/Robotics, accessed 26.11.18</obo:IAO_0000119>
+        <obo:IAO_0000412 xml:lang="en">re3data</obo:IAO_0000412>
+        <rdfs:comment>21.1.19 Changes to the label, synonyms and definition of this class reference the following issue: https://github.com/FAIRsharing/subject-ontology/issues/11</rdfs:comment>
+        <rdfs:label xml:lang="en">Robotics</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
