@@ -1,0 +1,2177 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/user/ontologies/2022/7/glossary#"
+     xml:base="http://www.semanticweb.org/user/ontologies/2022/7/glossary"
+     xmlns:obo="http://purl.obolibrary.org/obo/"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terms="http://purl.org/dc/terms/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000115 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000115">
+        <rdfs:label>definition</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/IAO_0000119 -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.obolibrary.org/obo/IAO_0000119">
+        <rdfs:label>definition_source</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://purl.org/dc/terms/source -->
+
+    <owl:AnnotationProperty rdf:about="http://purl.org/dc/terms/source"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Category -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Category">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Environment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Environment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#EnvironmentalIssues -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#EnvironmentalIssues">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#HumanRights -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#HumanRights">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Term -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Term">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Category"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Definition</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Source Link</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#academicInstitution -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#academicInstitution">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Any educational institution such as, but not limited to, a university, college, or high school, as well as libraries.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/academic-institution</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#actionPlan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#actionPlan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An action plan is a detailed plan outlining actions needed to reach one or more goals. Alternatively, it can be defined as a sequence of steps that must be taken, or activities that must be performed well, for a strategy to succeed. Development of action plans is required under many multilateral environmental agreements to facilitate implementation. The action plans here specifically refer to the ones on marine litter and plastic pollution.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#analysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#analysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Detailed examination of the elements or structure of something.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lexico.com/definition/analysis</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#automotive -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#automotive">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Relating to road vehicles.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/automotive</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#ban -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ban">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An official order that prevents something from being used or done.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ldoceonline.com/Law-topic/ban</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#beachCleanup -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#beachCleanup">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A beach clean-up is essentially a volunteer activity among concerned citizens that regularly takes place along coastlines worldwide.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.wavetribe.com/blogs/eco/why-beach-cleanups-are-important#What&apos;s%20a%20Beach%20Clean%20Up?</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#beachLitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#beachLitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Sewage-related debris that is washed down rivers into the sea, or wind-blown waste from refuse dumps located on the coast, but some of it comes from careless beach visitors who leave their litter lying on the sand.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://worldoceanreview.com/en/wor-1/pollution/litter/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#bioWaste -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#bioWaste">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Bio-waste, also known as biodegradable waste, is waste that consists mainly of organic materials. This includes green waste, food waste as well as paper waste, and even biodegradable plastics.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://skipit.london/2019/08/30/what-is-bio-waste/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#biodegradablePlastic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#biodegradablePlastic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Biodegradable plastic is plastic that’s designed to break up when exposed to the presence of microorganisms, it is usually made from natural byproducts, and follows rigorously controlled conditions of temperature and humidity in industrial environments.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://youmatter.world/en/definition/biodegradable-plastic/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#blueBond -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#blueBond">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A debt instrument issued by governments, development banks or others to raise capital from impact investors to finance marine and ocean-based projects that have positive environmental, economic and climate benefits.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.worldbank.org/en/news/feature/2018/10/29/sovereign-blue-bond-issuance-frequently-asked-questions</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#business -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#business">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Business is the activity of making one&apos;s living or making money by producing or buying and selling products (such as goods and services).</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Business</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#campaigns -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#campaigns">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Planned activities carried out over a period in order to achieve a goal</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#capacityBuildingInitiative -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#capacityBuildingInitiative">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: These are initiatives that develop and strengthen the skills, instincts, abilities, processes and resources that organizations and communities need to survive, adapt, and thrive in a fast-changing world.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#capacityDevelopment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#capacityDevelopment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: UNDP defines capacity development as the process through which individuals, organizations and societies obtain, strengthen and maintain the capabilities to set and achieve their own development objectives over time.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#circularEconomy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#circularEconomy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: UNEA Resolution 4/1 Acknowledges that a more circular economy, one of the current sustainable economic models, in which products and materials are designed in such a way that they can be reused, re-manufactured recycled or recovered and thus maintained in the economy for as long as possible, along with the resources of which they are made, and the generation of waste, especially hazardous waste, is avoided or minimized, and greenhouse gas emissions are prevented or reduced, can contribute significantly to sustainable consumption and production. The traditional definition by the Ellen MacArthur Foundation adds that “Underpinned by a transition to renewable energy sources, the circular model builds economic, natural, and social capital”, and lists the three principles of the circular economy as 1) Design out waste and pollution; 2) Keep products and materials in use; 3) Regenerate natural systems</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#circularity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#circularity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Circularity is the state where materials are retained at the highest possible value along the value chain through circular strategies while minimizing the overall environmental impacts.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#commmunityOfPractice -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#commmunityOfPractice">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A community of practice (CoP) is a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Community_of_practice</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#consumerInformation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#consumerInformation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Consumer information pertaining to the characteristics of products and transactions, made available to consumers/users to allow them to make informed choices at the time of initial acquisition and afterwards for use of the goods or services concerned. Consumer information makes it easier for consumers to compare goods and services, increases transparency and accountability, and reduces search costs. It can be used not only to inform, but also to influence consumer behavior - a case in point includes campaigns to encourage sustainable consumer choices and consumption patterns. Information may encompass details of process and production methods which are intended to inform consumers of the wider effects of the production of the goods or services. The information may be provided by the producer or by third parties such as consumer organizations, testing agencies, labelling or certification organizations etc.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#consumers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#consumers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Everyday purchaser of a good or service in retail or end user in the distribution chain of a good or service. Consumers include individual consumers and institutional consumers, represented by businesses and governments.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#crowdfunding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#crowdfunding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The practice of getting a large number of people to each give smallamounts of money in order to provide the finance for a project, typically using the internet.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/crowdfunding</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#dataScience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#dataScience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Data science is a multidisciplinary approach to extracting actionable insights from the large and ever-increasing volumes of data collected and created by today’s organizations. Data science encompasses preparing data for analysis and processing, performing advanced data analysis, and presenting the results to reveal patterns and enable stakeholders to draw informed conclusions.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ibm.com/cloud/learn/data-science-introduction</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#designForReuse -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#designForReuse">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Design reuse is the inclusion of previously designed components (blocks of logic or data) in software and hardware.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://whatis.techtarget.com/definition/design-reuse</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#dumpsite -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#dumpsite">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A site used to dispose of solid wastes without environmental controls”.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ajol.info/index.php/ijs/article/view/131299/120894</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#electricalService -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#electricalService">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Electrical services means transmitting or distributing electricity, electric lights, current or power over lines, wires or cables.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/electrical-services</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#electronics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#electronics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Implemented on or by means of a computer: involving a computer.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/electronic</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#environmentalGovernance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#environmentalGovernance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#EnvironmentalIssues"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: It comprises the rules, practices, policies and institutions that shape how humans interact with the environment.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#environmentalScientists -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#environmentalScientists">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Environmental scientists work to regulate, control, and prevent air, land, and water pollution. They conduct research to find pollutants or hazards in our environment and then propose a plan to eliminate them, all the while maintaining a balance between the needs of the natural environment and the economic needs of workers and industries.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.encyclopedia.com/economics/news-and-education-magazines/environmental-scientist</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#equityInvestment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#equityInvestment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Money that is invested in a company in the form of shares.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/equity-investment</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#exhibition -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#exhibition">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An event at which objects such as paintings are shown to the public, a situation in which someone shows a particular skill or quality to the public, or the act of showing these things.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/exhibition</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#expert -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#expert">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A person with a high level of knowledge or skill relating to a particular subject or activity.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/expert</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#factsheet -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#factsheet">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A fact sheet is a short, typed or hand-written document that contains the most relevant information about a particular subject in the least amount of space. The goal is to provide facts and key points about a topic in a clear, concise, and easy-to-understand way.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.kent.edu/ctl/fact-sheets</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#fee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#fee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A charge fixed by law for services of public officers or for use of a privilege under control of government.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://leap.unep.org/knowledge/glossary/fee</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#financialResourcesAndMechanisms -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#financialResourcesAndMechanisms">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Are defined as all resources or mechanisms that can be used by a Member State or an organization to finance activities to tackle marine plastic litter and microplastics. They include grants, loans, investments, blended finance, crowdfunding and donations, among others.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#fine -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#fine">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Monetary charges imposed upon individuals who have been convicted of a crime or a lesser offense.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://legal-dictionary.thefreedictionary.com/Fines</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#floatingLitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#floatingLitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Human-created waste that has deliberately or accidently been released in a lake, sea, ocean or waterway.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://wedocs.unep.org/bitstream/handle/20.500.11822/26239/understand_floating_ML.pdf?sequence=1&amp;isAllowed=y</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#foundations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#foundations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A foundation is a nonprofit corporation or a charitable trust that makes grants to organizations, institutions, or individuals for charitable purposes such as science, education, culture, and religion.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://learning.candid.org/resources/knowledge-base/what-is-a-foundation/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#fundRaiser -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#fundRaiser">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A fundraiser is an event which is intended to raise money for a particular purpose, for example, for a charity.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/fundraiser</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#funding -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#funding">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Funding is money which a government or organization provides for a particular purpose.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/funding</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#global -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#global">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Worldwide Coverage</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#government -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#government">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The government of a country is the group of people who are responsible for governing it.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/government</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#greenBond -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#greenBond">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Innovative financial instruments where the proceeds are invested exclusively (either by specifying the use of the proceeds, direct project exposure, or securitization) in green projects that generate climate or other environmental benefits, for example in renewable energy, energy efficiency, sustainable waste management, sustainable land use (forestry and agriculture), biodiversity, clean transportation and clean water. Their structure, risk and returns are otherwise identical to those of traditional bonds.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.sdfinance.undp.org/content/sdfinance/en/home/solutions/green-bonds.html#mst-1</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#guidanceDocuments -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#guidanceDocuments">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A document that gives advice or help on how to do or understand something</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#hackathon -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#hackathon">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Hackathons are events in which community members collaborate to solve problems. They assume many different forms, but most are designed to bring researchers from various career stages and backgrounds together to create shareable solutions to problems of common interest.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.apa.org/science/about/psa/2020/03/hackathon</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#humanHealth -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#humanHealth">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#HumanRights"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A state of complete physical, mental, and social well-being and not merely the absence of disease or infirmity.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.greenfacts.org/glossary/ghi/human-health.htm</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#hybrid -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#hybrid">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Both the physical as well as the online audience come together and participate in the same experience or content at the same time, from different locations.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.eventplanner.net/news/6486_what-is-a-hybrid-event-and-how-do-you-organize-one.html</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#hybridEvent -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#hybridEvent">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Hybrid events are, quite simply, a mix of live and virtual events. You take your live event, complete with an audience, content, and more, and you add a virtual component to it so your audience can participate and engage with your event, no matter where they are</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.brella.io/blog/hybrid-event-benefits?hs_amp=true</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#inMarket -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#inMarket">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Within the geographical area that the provider offers the service.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.proz.com/kudoz/english/it-information-technology/4219808-in-market.html</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#incubatorNetwork -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#incubatorNetwork">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Building a thriving circular economy by developing, promoting and incubating innovative technologies, business models and entrepreneurs that prevent ocean plastic pollution in and building the enabling environments they need to succeed.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.thecirculateinitiative.org/the-incubation-network</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#independentExpert -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#independentExpert">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Independent Expert means a Person or entity with no material current or prior business or personal relationship with the Advisor or the Directors and who is engaged to a substantial extent in the business of rendering opinions regarding the value of assets of the type held by the Company.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/independent-expert</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#industrialMachinery -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#industrialMachinery">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Industrial Machinery means machinery used in a specific trade or manufacture and includes but is not necessarily limited to oilfield and con­ struction equipment.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/industrial-machinery</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#infographic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#infographic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A picture or diagram or a group of pictures or diagrams showing or explaining information.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/infographic</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#inland -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#inland">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: In the middle of a country, away from the sea.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/inland</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#intergovernmentalOrganization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#intergovernmentalOrganization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An Intergovernmental organization or IGO is an organization composed primarily of sovereign states, or of other intergovernmental organizations. IGOs are established by treaty or other agreement that acts as a charter creating the group. Examples include the United Nations, the World Bank, or the European Union.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://leap.unep.org/knowledge/glossary/intergovernmental-organization</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#issuePaper -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#issuePaper">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Issue papers are short essays written about a specific topic. An issue paper should include an introduction, a body (or story), and a conclusion.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.public.asu.edu/~ckime/downloads/chk_wg06_writing_issue_papers.doc#:~:text=Issue%20papers%20are%20short%20essays,story)%2C%20and%20a%20conclusion.&amp;text=Think%20of%20the%20body%20of,a%20story%20about%20the%20topic.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#knowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#knowledge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Contextualized evidence to inform policymaking. This includes readily understandable research, presentation of timely data in visually compelling formats, storytelling, creation of clear key messages about the meaning of the data and scientific findings, suggestions of ways to use research findings for answering important policy questions, involvement of policymakers in the planning and execution of research, evidence briefs targeted to appropriate policymakers, …)</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#lake -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#lake">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A lake is an area filled with water, localized in a basin, surrounded by land, apart from any river or other outlet that serves to feed or drain the lake.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Lake</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#landBased -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#landBased">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Ecosystems&amp;Biodiversity"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Located on or living on the land.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.oxfordlearnersdictionaries.com/definition/english/land-based#:~:text=%5Busually%20before%20noun%5D,land%2Dbased%20animals</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#landlockedCountry -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#landlockedCountry">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Environment"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Landlocked country/land-locked State means a State which has no sea-coast.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.un.org/depts/los/convention_agreements/texts/unclos/part10.htm</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#legacy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#legacy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Legacy litter (or legacy plastics) refers to litter that is already in the environment. It often refers to litter that is already in the ocean, but it could also be in the terrestrial or freshwater ecosystems. Clean-up activities could be conducted to address legacy litter when it is environmentally sound to do so. However, clean-up of certain litter types (e.g. microplastics) in some locations (e.g. bottom of the deep sea) may not be feasible. (REF?)</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#litter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#litter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: As per the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities,2 litter is defined as “any persistent manufactured or processed solid material which is discarded, disposed of, or abandoned in the marine and coastal environment, sometimes called marine debris”.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#litterCapturing -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#litterCapturing">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: To grab, trap, or take litter.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.vocabulary.com/dictionary/capture</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#litterInBiota -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#litterInBiota">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Plant and animal life in general. The types of plant and animal life found in specific regions at specific times.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biologyonline.com/dictionary/biota</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#loan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#loan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An amount of money that is borrowed, often from a bank, and has to be paid back, usually with an extra charge for borrowing.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/loan</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#loanGuarantee -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#loanGuarantee">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An agreement where a government or financial organization promises to pay back a loan if the borrower cannot.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/loan-guarantee</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineBased -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineBased">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Of or relating to the sea; existing in or produced by the sea.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.dictionary.com/browse/marine</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineBiologists -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineBiologists">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A marine biologist is a scientist who focuses on living organisms, including plants and animals in the marine environment.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.vocabulary.com/dictionary/biologist</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineLitterConsultancy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineLitterConsultancy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A consultancy is a company that gives expert advice on a particular subject, ie Marine litter.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/consultancy</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineLitterExperts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#marineLitterExperts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An expert is commonly defined as someone with comprehensive and authoritative knowledge in a the marine litter area not possessed by most people.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925425/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#marinePlasticLitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#marinePlasticLitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Any plastic material that inadvertently makes its way out to sea.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.plasticpackagingfacts.org/plastic-sustainability/marine-debris/#:~:text=Plastic%20marine%20debris%20is%20any,the%20coastal%20or%20marine%20environment.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#matchedGiving -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#matchedGiving">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Matched Giving is when an organisation (normally a company) matches the amount of fundraising an employee does for another organisation (normally a charity). The fundraising of the individual, or indeed a group of individuals is matched from the company&apos;s own resource up to a pre-determined level</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.wheel.ie/funding/guidance/applying-to-grant-makers/what-matched-giving#:~:text=Matched%20Giving%20is%20when%20an,to%20a%20pre%2Ddetermined%20level.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#materialIntensity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#materialIntensity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Material intensity is a globally recognized measure of materials needed for the production, processing and disposal of a unit of a good or service.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://searcherp.techtarget.com/answer/How-does-material-intensity-help-measure-sustainability#:~:text=Material%20intensity%20is%20a%20globally,of%20a%20good%20or%20service.&amp;text=On%20a%20national%20or%20global,output%2C%20primarily%20gross%20domestic%20product.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#mechanism -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#mechanism">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A system of parts that operate or interact like those of a machine.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.yourdictionary.com/mechanism</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#memberState -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#memberState">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A member state is a state that is a member of an international organization or of a federation or confederation.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Member_state</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#microfibers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#microfibers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A microfiber is defined as a synthetic fiber (aka one that is derived from petroleum) that is extremely small in diameter. The term is used to describe two distinctly different things: microfiber fabric and microfibers that are pollutants. Microfiber fabric, also known as microsuede fabric, is made up of fibers that are approximately 1/100th the diameter of a human hair, meaning approximately 200,000 fibers are needed to comprise one square inch of fabric</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.greenmatters.com/p/what-are-microfibers</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#microlitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#microlitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Microlitter is litter which is very small and in the form of micro particles.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://ioi.research.um.edu.mt/cms/ioikids/lessons/saveoursea/lesson3/microlitter.html</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#microplastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#microplastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Plastic particles &lt;5 mm in diameter3. Microfibers are a type of microplastics. Tire wear particles are often referred to microplastics, but they can contain other materials such as metals.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#minimization -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#minimization">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The action of reducing something to the lowest possible level or amount.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/minimization</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#monitoringAndAnalysis -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#monitoringAndAnalysis">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: collecting evidence around plastic discharge to the ocean/waterways, e.g., monitoring, analysis</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#mudslide -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#mudslide">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Mudslides occur when a large amount of water causes the rapid erosion of soil on a steep slope.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://wonderopolis.org/wonder/what-causes-mudslides</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#multi-stakeholderEngagementForGlobalActions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#multi-stakeholderEngagementForGlobalActions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Multi-Stakeholder Engagement Processes (MSEPs) are (structured) processes that are used to ensure participation on a specific issue and are based on a set of principles, sometimes inspired by the rights-based approach to development.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.undp.org/content/dam/aplaws/publication/en/publications/capacity-development/drivers-of-change/accountability/multi-stakeholder-engagement-processes/Engagement-Processes-cp7.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateral -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateral">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Involving or participated in by more than two nations or parties multilateral agreements.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/multilateral</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateralProcessesActors -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateralProcessesActors">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A method of cooperation and a form of organization of the international system.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://multilateralism100.unog.ch/about</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateralism -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#multilateralism">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Multilateralism, process of organizing relations between groups of three or more states. Beyond that basic quantitative aspect, multilateralism is generally considered to comprise certain qualitative elements or principles that shape the character of the arrangement or institution.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.britannica.com/topic/multilateralism</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#national -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#national">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Covers an entire country</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#nationalSourceInventory -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#nationalSourceInventory">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A collaborative program for startup companies - usually physically located in one central workspace - designed to help startups in their infancy succeed by providing workspace, seed funding, mentoring and training.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.uschamber.com/co/run/business-financing/startup-incubator</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#networking -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#networking">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: It is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting. Networking often begins with a single point of common ground.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.investopedia.com/terms/n/networking.asp</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#non-profitOrg -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#non-profitOrg">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A nonprofit organization is a business that has been granted tax-exempt status.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.investopedia.com/terms/n/non-profitorganization.asp</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#ocean -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ocean">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Any of its four principal geographical divisions: the Atlantic, Pacific, Indian, or Arctic Ocean.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/ocean</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#offences -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#offences">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An offence is a crime that breaks a particular law and requires a particular punishment.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/offence</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#online -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#online">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Instances are immediately available.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://dicom.nema.org/resources/ontology/DCM/ONLINE</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#operationalGuidelines -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#operationalGuidelines">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Operational Guidelines means rules, regulations and policies necessary for the proper organization and administration of the Department.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/operational-guidelines#:~:text=Operational%20Guidelines%20means%20rules%2C%20regulations,and%20administration%20of%20the%20Department.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#operationsGuideline -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#operationsGuideline">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Operational Guidelines means rules, regulations and policies necessary for the proper organization and administration of the Department.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/operational-guidelines</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#oxy-degradablePlastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#oxy-degradablePlastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Oxo-degradable plastics are conventional polymers (e.g. LDPE) to which chemicals are added toaccelerate the oxidation and fragmentation of the material under the action of UV light and/orheat, and oxygen</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://ecostandard.org/wp-content/uploads/oxo-statement.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#packaging -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#packaging">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The wrapping material around a consumer item that serves to contain, identify, describe, protect, display, promote and otherwise make the product marketable and keep it clean.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.entrepreneur.com/encyclopedia/packaging</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#partnerships -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#partnerships">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Partnerships are voluntary and collaborative relationships between various parties, both public and non-public, in which all participants agree to work together to achieve a common purpose or undertake a specific task and, as mutually agreed, to share risks and responsibilities, resources and benefits.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#penalty -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#penalty">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Appropriate and proportionate penalties for environmental law violations, encourage compliance by raising the cost of non-compliance above that of compliance. For environmental crime, additional deterrent effect can be obtained through sanctions such as imprisonment, fines, confiscation of equipment and other materials, disbarment from practice or trade and confiscation of the proceeds of environmental crime. Remedial costs should be imposed such as those for redressing environmental damage, loss of use of natural resources and harm from pollution and recovery of costs of remediation, restoration or mitigation.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://leap.unep.org/knowledge/glossary/penalty</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#pilot -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#pilot">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A pilot is, by definition, a solution that is to be tested on a small scale that is seen to be complete in its own right. Piloting can also be seen as the pre-scale phase of a new approach that focuses on quality, validation, time, cost, adverse events, and initial short-term impact.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.unhcr.org/innovation/what-is-prototyping-anyway/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticAlternatives -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticAlternatives">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Some alternatives of plastics: Liquid wood, Silicone, Glass, Starch-based plants, Milk protein, Chicken feathers, and Biodegradable plastics.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.researchgate.net/post/What_are_the_alternatives_of_plastics#:~:text=Some%20alternatives%20of%20plastics%3A%20Liquid,Chicken%20feathers%2C%20and%20Biodegradable%20plastics.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticCutlery -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticCutlery">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The most common type of disposable cutlery is made of plastic. Plastic cutlery is made from either polypropylene or polystyrene.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ebpsupply.com/blog/comparing-different-types-disposable-cutlery</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticLeakage -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticLeakage">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Plastic leakage is the potential amount of macro- and microplastics that are not kept in a circular loop or properly managed at their end-of-life, and thus leak into the environment.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.iucn.org/news/business-and-biodiversity/202002/plastic-leak-project-publishes-first-standardised-guidelines-measure-plastic-pollution-corporate-value-chains#:~:text=Plastic%20leakage%20is%20the%20potential,thus%20leak%20into%20the%20environment.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticPackaging -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticPackaging">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A sub-set of plastic usage, referring to all packaging made of plastic material.This report includes rigid (e.g. bottles, jars, canisters, cups, buckets, containers,trays, clamshells) and flexible (e.g. bags, films, foils, pallet shrouds, pouches,blister packs, envelopes) plastic packaging, for both consumer and industrialpurposes.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ellenmacarthurfoundation.org/assets/downloads/EllenMacArthurFoundation_TheNewPlasticsEconomy_Pages.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticValueChain -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticValueChain">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The sequence of activities a company performs in order to design, produce, market, deliver, and support its product of plastics.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://lib.bakeru.edu/Supply-chain-and-value-chain/definitions</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticsExpert -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#plasticsExpert">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An expert is commonly defined as someone with comprehensive and authoritative knowledge in a particular area not possessed by most people.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3925425/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#policyRecommendations -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#policyRecommendations">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A policy recommendation is written policy advice prepared for some group or person that has the authority to make or to influence policy decisions.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.cardi.ie/userfiles/Fact%20sheet%20(web).pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#postConsumerPlastic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#postConsumerPlastic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Post-consumer is made from plastic that was used to manufacture an item, which was then discarded, gathered up, cleaned and reprocessed.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.azom.com/article.aspx?ArticleID=16747#:~:text=Post%2Dconsumer%20is%20made%20from,landfills%20and%20toward%20recycling%20facilities.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#primaryMicroplastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#primaryMicroplastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Particles that have been manufactured to a particular size to carry out a range of specific functions. Microbeads are a type of primary microplastics. (REF?)</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateCitizen -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateCitizen">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Private citizen means a natural person who is not a sole trader and independently carries out a specific registered activity or activity specified by a regulation, such as a notary, physician, lawyer or farmer.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/private-citizen</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateForProfit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateForProfit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The private sector is the part of the economy that is run by individuals and companies for profit and is not state controlled. Therefore, it encompasses all for-profit businesses that are not owned or operated by the government.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.investopedia.com/terms/p/private-sector.asp#:~:text=The%20private%20sector%20is%20the,or%20operated%20by%20the%20government.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateNotForProfit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#privateNotForProfit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Private not-for-profit refers to a private foundation that is engaged in social or public benefit activities and is registered as such with the IRS. It derives its revenue from a small group of donors.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.upcounsel.com/what-does-private-not-for-profit-mean#:~:text=for%2Dprofit%20mean%3F-,Private%20not%2Dfor%2Dprofit%20refers%20to%20a%20private%20foundation%20that,a%20small%20group%20of%20donors.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#product -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#product">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A product is something that is produced and sold in large quantities, often as a result of a manufacturing process.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/product</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#productBan -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#productBan">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Bans can be placed on products and product-related services if there is a risk that they may cause serious injury, illness or death.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.productsafety.gov.au/product-safety-laws/safety-standards-bans/product-bans/about-product-bans</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#productDesign -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#productDesign">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Product design describes the process of imagining, creating, and iterating products that solve users&apos; problems or address specific needs in a given market.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.productplan.com/glossary/product-design/#:~:text=Product%20design%20describes%20the%20process,the%20product%20is%20being%20created.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#productLaunch -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#productLaunch">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A product launch refers to all of the coordinated steps in a company&apos;s plan to deliver a product to the market. It involves far more than releasing the product to customers. For example, a product launch includes pre-launch market research and messaging to the company&apos;s targeted users.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.productplan.com/learn/product-launch-vs-feature-launch/#:~:text=A%20product%20launch%20refers%20to,to%20the%20company&apos;s%20targeted%20users.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#projectDevelopment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#projectDevelopment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Project development is the process and the facility of planning, organizing, coordinating, and controlling the resources to accomplish specific goals. The process takes a transportation improvement from concept through construction.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.igi-global.com/dictionary/theme-scenario-development-in-interior-architecture/47429</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#prototype -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#prototype">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Prototype is the first complete solution to the original challenge. The first “prototype” is the first time all parts of a solution are tested together. It is the first time that the inter-dependencies of all components can be tested, analyzed, and refined. Complete does not and should not mean final.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.unhcr.org/innovation/what-is-prototyping-anyway/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#publication -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#publication">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The publication of something such as information is the act of making it known to the public, for example by informing journalists or by publishing a government document.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/publication</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#recyclers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#recyclers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A person who recycles, or a machine used to recycle.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.yourdictionary.com/recycler#:~:text=A%20person%20who%20recycles%2C%20or%20a%20machine%20used%20to%20recycle.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#reduce -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#reduce">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: To make something smaller or use less, resulting in a smaller amount of waste.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://kids.niehs.nih.gov/topics/reduce/reduce-waste/index.htm#:~:text=Reduce%2FReduction%3A%20to%20make%20something,a%20smaller%20amount%20of%20waste.&amp;text=A%20key%20part%20of%20waste,usual%20in%20order%20avoid%20waste.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#reportAndAssessment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#reportAndAssessment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A textual document made that present focused, salient content to a specific audience but is not limited to assessment reports, evaluation report, annual report, progress/quadrennial assessment report</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#research -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#research">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Research is defined as the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies and understandings. T</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.westernsydney.edu.au/research/researchers/preparing_a_grant_application/dest_definition_of_research</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#researchLab -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#researchLab">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A laboratory for conducting research or investigations into science | Meaning, pronunciation, translations and examples.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/research-laboratory</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#retail -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#retail">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Sector"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Retail, by definition, is the sale of goods or service from a business to a consumer for their own use. A retail transaction handles small quantities of goods whereas wholesale deals with the purchasing of goods on a large scale.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://erply.com/what-is-retail/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#reusablePackaging -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#reusablePackaging">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Reusable packaging is packaging that is used multiple times, often for the purpose of transporting products. It is typically designed for durability, ease of use, ease of cleaning, and ease of repair and is ideally collapsible or nestable.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.thebalancesmb.com/what-is-reusable-packaging-2878094</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#reuse -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#reuse">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Reuse is the action or practice of using an item, whether for its original purpose (conventional reuse) or to fulfil a different function (creative reuse or repurposing).</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Reuse</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#right -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#right">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A power, privilege, demand, or claim possessed by a particular person by virtue of law.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://legal-dictionary.thefreedictionary.com/Right</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#rightToTenure -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#rightToTenure">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#HumanRights"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The right of all individuals and groups to effective protection by the state against forced evictions.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.citego.org/bdf_fiche-document-1398_fr.html#:~:text=Secure%20tenure%20is%20the%20right,without%20the%20provision%20of%2C%20and</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#river -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#river">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A river is a large amount of fresh water flowing continuously in a long line across the land.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/river</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#riverBasinManagement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#riverBasinManagement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: RBMPs are detailed accounts of how objectives set for the river basins (ecological status, quantitative status, chemical status and protected area objectives) are to be reached within the timescale required.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/river-basin-management</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#riverineLitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#riverineLitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Riverine litter refers to litter present in rivers and on riverbanks. The rivers act as pathways which collect litter from run-off and direct input, transporting it towards the marine aquatic environment (the sea).</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://mcc.jrc.ec.europa.eu/documents/201703034325.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#scaleUp -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#scaleUp">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Scaling up, or vertical scaling, involves obtaining a faster server with more powerful processors and more memory. This solution uses less network hardware, and consumes less power; but ultimately, for many platforms may only provide a short-term fix, especially if continued growth is expected</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ngdata.com/the-importance-of-scalability-in-big-data-processing/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#science-policy -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#science-policy">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Applying scientific knowledge and consensus to the development of public policies. Science policy&apos;s goal is to consider how science and technology can best serve the public. Research can contribute to better governance by encouraging open inquiry and debate, by empowering people with the knowledge to hold governments accountable, and by enlarging the array of policy options and solutions available to the policy process.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#scienceInitiative -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#scienceInitiative">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Scientific Research Initiatives are efforts designed to advance major new directions in transdisciplinary discovery in the sciences.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://biosciences.umich.edu/scientific-initiatives/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#scientificAndTechnicalCommunity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#scientificAndTechnicalCommunity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The Scientific and Technological Community Major Group at the United Nations seeks to secure a mandate for science at the UN and integrate science in major global policy processes, such as the implementation and monitoring of the 2030 Agenda and its Sustainable Development Goals (SDGs).</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://sustainabledevelopment.un.org/majorgroups/scitechcommunity</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#scientificAndTechnologicalCommunityAndAcademia -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#scientificAndTechnologicalCommunityAndAcademia">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: These may include all actors contributing to the generation of scientific or technical knowledge on the topic, including professional scientists and other researchers, as well as those educating and promoting awareness, such as university professors, other educators, and their representatives.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://wedocs.unep.org/bitstream/handle/20.500.11822/34453/UNEP%20GPML%20Digital%20Platform%20Concept%20for%20User%20and%20Partner%20Consultations%20May%202021.pdf?sequence=9&amp;isAllowed=y</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sea -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sea">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The salty water that covers a large part of the surface of the earth, or a large area of salty water, smaller than an ocean, that is partly or completely surrounded by land.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/sea</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sea-landInterface -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sea-landInterface">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Lifecycle"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The land-sea interface (also known as the Coastal Transition Zone) is the area of transition that links terrestrial and marine environments. In this zone, ecological and physical processes from both the marine and terrestrial environments interact.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.designingbuildings.co.uk/wiki/Land-sea_interface</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#seafloorLitter -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#seafloorLitter">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#MarinePollution"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: More dense litter items sink when they enter the marine environment and therefore it is essential to assess the amount of litter on the seafloor, as well as that washing ashore or floating on the surface, to get a complete picture.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ospar.org/work-areas/eiha/marine-litter/assessment-of-marine-litter/seabed-litter</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#secondaryMicroplastics -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#secondaryMicroplastics">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Microplastics that are created by the weathering and fragmentation of larger plastic objects. (REF?)</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#seminar -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#seminar">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A seminar may be defined as a gathering of people for the purpose of discussing a stated topic. Such gatherings are usually interactive sessions where the participants engage in discussions about the delineated topic.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://evenues.com/event-planning-guide/what-is-a-seminar</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#separation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#separation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The act or process of separating: the state of being separated.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/separation</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#socialwell-being -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#socialwell-being">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#HumanRights"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Social well-being is an end state in which basic human needs are met and people are ableto coexist peacefully in communities with opportunities for advancement.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.usip.org/sites/default/files/GP_170-203_Social_Well-Being.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#softwareDevelopment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#softwareDevelopment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Software development is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Software_development</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#softwareProducts -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#softwareProducts">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Software Products are nothing but software systems delivered to the customer with the documentation that describes how to install and use the system. Software products are produced with the help of the software process. The software process is a way in which we produce software.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.geeksforgeeks.org/software-engineering-software-product/#:~:text=Software%20Products%20are%20nothing%20but,install%20and%20use%20the%20system.&amp;text=Software%20products%20are%20produced%20with,in%20which%20we%20produce%20software.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#solidWaste -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#solidWaste">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Solid waste means any garbage or refuse, sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility and other discarded material, resulting from industrial, commercial, mining, and agricultural operations, and from community activities.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.epa.gov/hw/criteria-definition-solid-waste-and-solid-and-hazardous-waste-exclusions</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sourceToSeaApproach -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sourceToSeaApproach">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The source-to-sea approach directly addresses the linkages between land, water, delta, estuary, coast, nearshore and ocean ecosystems in support of holistic natural resources management and economic development.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.siwi.org/publications/implementing-the-source-to-sea-approach-a-guide-for-practitioners/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#spatialDataScience -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#spatialDataScience">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Spatial data science (SDS) is a subset of Data Science that focuses on the unique characteristics of spatial data, moving beyond simply looking at where things happen to understand why they happen there.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://carto.com/what-is-spatial-data-science/#:~:text=Spatial%20Data%20Science%3F-,Spatial%20data%20science%20(SDS)%20is%20a%20subset%20of%20Data%20Science,understand%20why%20they%20happen%20there.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#startup -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#startup">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A startup is a young company founded by one or more entrepreneurs to develop a unique product or service and bring it to market. By its nature, the typical startup tends to be a shoestring operation, with initial funding from the founders or their friends and families.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.investopedia.com/ask/answers/12/what-is-a-startup.asp</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#stateOfKnowledge -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#stateOfKnowledge">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: State of knowledge. -established knowledge. -the extent to which that knowledge is established (limits) -how the knowledge was established. -the positions of whom established the knowledge.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://quizlet.com/133492482/state-of-knowledgeknowledge-deficit-flash-cards/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#stormwaterOutfall -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#stormwaterOutfall">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Outfalls are locations where stormwater exits the facility property, including pipes, ditches, swales, and other structures that transport stormwater.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www3.epa.gov/region10/pdf/npdes/stormwater/msgp_faq_aug2015.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#storymap -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#storymap">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Story maps use geography as a means of organizing and presenting information. They tell the story of a place, event, issue, trend, or pattern in a geographic context. They combine interactive maps with other rich content—text, photos, illustrations, video, and audio—within intuitive user experiences.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.esri.com/arcgis-blog/products/uncategorized/uncategorized/story-maps-101/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#strategicFrameworks -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#strategicFrameworks">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A strategic framework is an externally facing, visual outline of activities that make up an organization’s or department’s overarching strategy.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.thinkparallax.com/Insight/what-is-a-strategic-framework/#:~:text=A%20strategic%20framework%20is%20an,organization&apos;s%20or%20department&apos;s%20overarching%20strategy.&amp;text=A%20strong%20framework%20is%20aspirational,vision%2C%20purpose%2C%20or%20goals.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#strategiesAndActionPlans -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#strategiesAndActionPlans">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Decisions designed to create favorable impact on key factors to create a desired outcome</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sub-national -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sub-national">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Covers part of a country e.g, city, or federal state</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#subsidisedCreditFacility -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#subsidisedCreditFacility">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A facility that provides credit on terms below normal market rates. Subsidized credit may be granted to encourage particular forms of activity, including, for example, exports, provision of affordable rented housing by housing associations, or the growth of entrepreneurship among minority groups.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100540846#:~:text=Credit%20provided%20on%20terms%20below,of%20entrepreneurship%20among%20minority%20groups.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#summit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#summit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A meeting or conference of heads of state, especially to conduct diplomatic negotiations and ease international tensions. any meeting or conference of top-level officials, executives, etc. Also called summit, summit conference.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.dictionary.com/browse/summit-meeting#:~:text=noun,Also%20called%20summit%2C%20summit%20conference.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#susbsidizedCredit -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#susbsidizedCredit">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Credit provided on terms below normal market rates. Subsidized credit may be granted to encourage particular forms of activity, including, for example, exports, provision of affordable rented housing by housing associations, or the growth of entrepreneurship among minority groups.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.oxfordreference.com/view/10.1093/oi/authority.20110803100540846</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableConsumptionAndProduction -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableConsumptionAndProduction">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: As defined by the Oslo Symposium in 1994, sustainable consumption and production (SCP) is about the use of services and related products, which respond to basic needs and bring a better quality of life while minimizing the use of natural resources and toxic materials as well as the emissions of waste and pollutants over the life cycle of the service or product so as not to jeopardize the needs of further generations.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableDevelopmentAndBlueBond -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableDevelopmentAndBlueBond">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A senior unsecured bond transaction with the same financial and contractual terms as any other senior unsecured transaction</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableDevelopmentBond -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableDevelopmentBond">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Debt securities issued by private or public entities to finance activities or projects linked to sustainable development.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwjOsa6Fp4TyAhXEB9QKHYwkATMQFjABegQIFBAD&amp;url=http%3A%2F%2Fwww.impact-investing.eu%2Fdownload%2F163%2Feiil-sustainable-development-bonds-a4-final.pdf&amp;usg=AOvVaw2SBgnfwTKxImoplqqwlGEP</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableProcurement -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#sustainableProcurement">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Is a “process whereby organizations meet their needs for goods, services, works and utilities in a way that achieves value for money on a whole life-cycle basis in terms of generating benefits not only to the organization, but also to society and the economy, whilst significantly reducing negative impacts on the environment.”</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#technologyAndProcesses -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#technologyAndProcesses">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: New technical developments/innovation, e.g., research and development, new product design, new materials, processes etc., changes in practice, operations, environmental management and planning</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#transboundaryWaste -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#transboundaryWaste">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Moving or having effect across a boundary or boundaries.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lexico.com/definition/transboundary</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#transnational -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#transnational">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Geocoverage"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Covers two or more countries</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#unSystem -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#unSystem">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The United Nations System Organizations cover a wide variety of organizational entities (centres, agencies, organizations, commissions, programmes, etc.) with different institutional and functional structures. The principal organs and subsidiary bodies of the United Nations Secretariat are included under the regular budget of the United Nations, as authorized by the General Assembly</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.ungm.org/Shared/KnowledgeCenter/Pages/VBS_UNSystem</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#upcycle -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#upcycle">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ValueChainImpact"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Upcycling as the conversion of waste materials to something useful or valuable, underlining is it a useful concept that can be applied not only to the waste design industry but also to waste recycling and resource circulation.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://youmatter.world/en/definition/upcycling/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#userConsultation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#userConsultation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: One that uses: the act of consulting or conferring.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/user : https://www.merriam-webster.com/dictionary/consultation</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#ventureCapital -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#ventureCapital">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Money that is invested or is available for investment in a new company, especially one that involves risk.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://dictionary.cambridge.org/dictionary/english/venture-capital</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#verificationOfCompliance -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#verificationOfCompliance">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: This is the process of checking, verifying, and attaining general information about the ability of an individual, a company, or an organization to comply with the standards.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.sampleforms.com/compliance-verification.html</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#virginPlastic -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#virginPlastic">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Plastics"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Virgin plastic is exactly what you think it is. It’s plastic resin that has been newly created without any recycled materials. This type of plastic is produced (using natural gas or crude oil) in order to create brand new plastic products for the very first time.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://residentialwastesystems.com/blog/is-recycled-plastic-better-than-new-plastic/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#volunteer -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#volunteer">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A volunteer is someone who does work without being paid for it, because they want to do it.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/volunteer</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteDetection -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteDetection">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Waste is a product or substance which is no longer suited for its intended use.: the act of detecting: the state or fact of being detected</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://sisu.ut.ee/waste/book/11-definition-and-classification-waste : https://www.merriam-webster.com/dictionary/detection</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteManagementLegislation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteManagementLegislation">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: This is a Law that regulates the waste management; plans and programs for waste management; rights and obligations of the legal entities and individuals related to waste management; the manner of and conditions for waste collection, transportation, treatment, processing, storage and disposal; waste import, export and transit; monitoring; information system and financing.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://extwprlegs1.fao.org/docs/pdf/mac60909E.pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#wastePickers -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#wastePickers">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Waste pickers collect household or commercial/industrial waste. They may collect from private waste bins or dumpsters, along streets and waterways or on dumps and landfills</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.wiego.org/informal-economy/occupational-groups/waste-pickers</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteSorting -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#wasteSorting">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Waste"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Waste sorting is the process by which waste is separated into different elements. Waste sorting can occur manually at the household and collected through curbside collection schemes, or automatically separated in materials recovery facilities or mechanical biological treatment systems.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Waste_sorting</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterAndSanitationService -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterAndSanitationService">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Sanitation Service means the provision of facilities and services for the safe management of human excreta including its safe confinement, treatment, disposal and associated hygiene related practices.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lawinsider.com/dictionary/sanitation-service#:~:text=Sanitation%20Service%20means%20the%20provision,and%20associated%20hygiene%20related%20practices.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterCatchment -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterCatchment">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The process of collecting water, in particular the process of water flowing from the ground and collecting in a river.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/catchment</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#workingDocument -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#workingDocument">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A type of technical report that is a work in progress, a preliminary form of a possible future document.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#workingWithPeople -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#workingWithPeople">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Encouraging or enabling others, e.g., education, training, communication, awareness raising, behaviour change programmes</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#workshop -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#workshop">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A meeting of people to discuss and/or perform practical work in a subject or activity.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.lucidmeetings.com/meeting-types/workshops</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Ecosystems&amp;Biodiversity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Ecosystems&amp;Biodiversity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#FinancingResources&amp;Mechanism">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Expertise">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Glossary_Term"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#calculationTool(calculator) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#calculationTool(calculator)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Device that you use for making mathematical calculations.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/calculator</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#certification,LicensingAndRegistration -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#certification,LicensingAndRegistration">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Process of checking, verifying, and attaining general information about the ability to comply with the standard.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#citizenScienceprograms​ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#citizenScienceprograms​">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Public participation in scientific projects.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.pnas.org/content/116/17/8089.short</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#clean-ups​ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#clean-ups​">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An act or instance of cleaning.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/cleanup</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#development(technological) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#development(technological)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Technology"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: The systematic use of scientific, technical, economic and commercial knowledge to meet specific business objectives or requirements.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.igi-global.com/dictionary/technological-development/48985#:~:text=1.,specific%20business%20objectives%20or%20requirements.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#educationalpackages/teacherresources​ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#educationalpackages/teacherresources​">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#CapacityBuilding"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A Learning Resource Package is a collection of materials used to conduct a course—whether a traditional, group-based course or another type of learning event.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://reprolineplus.org/resources/trainer-educator/learning-resource-packages</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#establishedBusiness(company) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#establishedBusiness(company)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Economy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An established business is one that has obtained a reputation for a specific product, service, process, or platform. Most established companies will aim to continue to grow and develop their customer base within their particular industry.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://rndtax.co.uk/established-business-grants/#:~:text=Home%20%C2%BB%20Established%20Businesses,base%20within%20their%20particular%20industry.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#games​ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#games​">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: A physical or mental competition conducted according to rules with the participants in direct opposition to each other.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.merriam-webster.com/dictionary/game</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#guidance(policy/decisionmakers) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#guidance(policy/decisionmakers)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#TechnicalResource"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: To direct, to point out, to show the path. It is the assistance or help rendered by a more experienced person to a less experiences person to solve certain major problems of the individual (less experienced) i.e. educational, vocational, personal etc.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://archive.mu.ac.in/myweb_test/ma%20edu/M.A.%20Edu.%20Guid.%20&amp;%20Coun..pdf</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#legislation,standards,Rules -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#legislation,standards,Rules">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Agreeing new or changing rules or standards that others should comply with, new regulation, agreements, policies, economic instruments etc. including voluntary commitments)</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#legislations,RegulationsAndStandards -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#legislations,RegulationsAndStandards">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Measures taken by governmental units to influence people by means of formulated rules and directives which mandate receivers act in accordance with what is ordered in these rules or directives</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#majorGroupsAndStakeholders(MGS) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#majorGroupsAndStakeholders(MGS)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Major Groups and other Stakeholders (MGoS) were integral to the development and adoption of the 2030 Agenda for Sustainable Development.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://sustainabledevelopment.un.org/mgos</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#non-governmentalOrganization(NGO) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#non-governmentalOrganization(NGO)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Stakeholders&apos;Groups"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An NGO is an organization which is not run by the government.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.collinsdictionary.com/dictionary/english/ngo</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#onlineCoursesAndtrainings​ -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#onlineCoursesAndtrainings​">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Event"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An online class is a course conducted over the Internet. Online classes are generally self-paced, allowing for greater flexibility in completing coursework.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://tophat.com/glossary/o/online-class/#:~:text=An%20online%20class%20is%20a%20course%20conducted%20over%20the%20Internet.&amp;text=Online%20classes%20are%20generally%20self,such%20as%20edX%20or%20Coursera.</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#prohibitiveregulations,BansAndRestrictions -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#prohibitiveregulations,BansAndRestrictions">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Policy"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Rules of an obligatory nature that are negative, disallowing certain phenomena or actions.</obo:IAO_0000115>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#urbanArea(environment) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#urbanArea(environment)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Environment"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: An urban area is the region surrounding a city. Most inhabitants of urban areas have nonagricultural jobs. Urban areas are very developed, meaning there is a density of human structures such as houses, commercial buildings, roads, bridges, and railways. &quot;Urban area&quot; can refer to towns, cities, and suburbs</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://www.nationalgeographic.org/encyclopedia/urban-area/</terms:source>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterManagement(waterResourcemanagement) -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/user/ontologies/2022/7/glossary#waterManagement(waterResourcemanagement)">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/user/ontologies/2022/7/glossary#Water"/>
+        <obo:IAO_0000115 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DRAFT: Water resource management is the activity of planning, developing, distributing and managing the optimum use of water resources.</obo:IAO_0000115>
+        <terms:source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://en.wikipedia.org/wiki/Water_resource_management</terms:source>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
